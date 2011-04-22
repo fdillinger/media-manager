@@ -1,0 +1,5373 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
+ <list>
+   <author>
+      <lastname>Zweig</lastname>
+      <firstname>Stefan</firstname>
+      <books>
+         <book><title>Die Schachnovelle</title></book>
+         <book><title>Der Amokl�ufer</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Zweig</lastname>
+      <firstname>Arnold</firstname>
+      <books>
+         <book><title>Laut gegen Nazis</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Zimmer Bradley</lastname>
+      <firstname>Marion</firstname>
+      <books>
+         <book><title>Die Nebel von Avalon</title></book>
+         <book><title>Das Licht von Atlantis</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Zeh</lastname>
+      <firstname>Juli</firstname>
+      <books>
+         <book><title>Adler und Engel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Zaimoglu</lastname>
+      <firstname>Feridun</firstname>
+      <books>
+         <book><title>Kanak Sprak</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Zafon</lastname>
+      <firstname>Carlos Ruiz</firstname>
+      <books>
+         <book><title>Der Schatten des Windes</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Yamamoto</lastname>
+      <firstname>Tsunetomo</firstname>
+      <books>
+         <book><title>Hagakure Der Weg des Samurai</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>W�chter</lastname>
+      <firstname>Friedrich Karl</firstname>
+      <books>
+         <book><title>Die letzten Dinge</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Woolf</lastname>
+      <firstname>Virginia</firstname>
+      <books>
+         <book><title>Mrs. Dalloway</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Woody</lastname>
+      <firstname>Allen</firstname>
+      <books>
+         <book><title>Intermezzo mit Kugelmass</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Wood</lastname>
+      <firstname>Barbara</firstname>
+      <books>
+         <book><title>Der Fluch der Schriftrollen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Wolke</lastname>
+      <firstname>Robert L</firstname>
+      <books>
+         <book><title>Was Einstein seinem Friseur erz�hlte</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+         <book><title>Blickwechsel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Wolf</lastname>
+      <firstname>Christa</firstname>
+      <books>
+         <book><title>Kassandra</title></book>
+         <book><title>Medea</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Witzko</lastname>
+      <firstname>Karl-Heinz</firstname>
+      <books>
+         <book><title>Das Traumbeben</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Wimmer</lastname>
+      <firstname>Maria</firstname>
+      <books>
+         <book><title>spricht Goethe_Lessing_Hebbel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Willemsen</lastname>
+      <firstname>Roger</firstname>
+      <books>
+         <book><title>Deutschlandreise</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Wilhelm</lastname>
+      <firstname>Andreas</firstname>
+      <books>
+         <book><title>Projekt Babylon</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Wilde</lastname>
+      <firstname>Oscar</firstname>
+      <books>
+         <book><title>Der gl�ckliche Prinz</title></book>
+         <book><title>Der Geburtstag der Infantin</title></book>
+         <book><title>Das Gespenst von Canterville</title></book>
+         <book><title>Das Bildnis des Dorian Gray</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Wiesl�nder</lastname>
+      <firstname>Jujja und Thomas</firstname>
+      <books>
+         <book><title>Mama Muh r�umt auf</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Wieser</lastname>
+      <firstname>Hadmar von</firstname>
+      <books>
+         <book><title>Himmlisches Feuer</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Wickert</lastname>
+      <firstname>Ulrich</firstname>
+      <books>
+         <book><title>Die W�stenk�nigin Der Richter in Angola</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Wessely</lastname>
+      <firstname>Paula</firstname>
+      <books>
+         <book><title>spricht Hofmannsthal_Schnitzler</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Welsh</lastname>
+      <firstname>Irvine</firstname>
+      <books>
+         <book><title>Trainspotting</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Wells</lastname>
+      <firstname>H.G</firstname>
+      <books>
+         <book><title>Krieg der Welten</title></book>
+         <book><title>Die Zeitmaschine</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Wellershoff</lastname>
+      <firstname>Dieter</firstname>
+      <books>
+         <book><title>Der Liebeswunsch</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Walters</lastname>
+      <firstname>Minette</firstname>
+      <books>
+         <book><title>Schlangenlinien</title></book>
+         <book><title>In Flammen</title></book>
+         <book><title>Fuchsjagd</title></book>
+         <book><title>Der Nachbar</title></book>
+         <book><title>Der Au�enseiter</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Walser</lastname>
+      <firstname>Martin</firstname>
+      <books>
+         <book><title>Tod Eines Kritikers</title></book>
+         <book><title>Der Lebenslauf der Liebe</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Wallis</lastname>
+      <firstname>Velma</firstname>
+      <books>
+         <book><title>Zwei alte Frauen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Wagandt</lastname>
+      <firstname>Alexander</firstname>
+      <books>
+         <book><title>Erste Schritte in NLP</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Villon</lastname>
+      <firstname>Francois</firstname>
+      <books>
+         <book><title>Klaus Kinski liest Villon</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Verne</lastname>
+      <firstname>Jules</firstname>
+      <books>
+         <book><title>Zwei Jahre Ferien</title></book>
+         <book><title>Von der Erde zum Mond</title></book>
+         <book><title>Reise zum Mittelpunkt der Erde</title></book>
+         <book><title>Reise um die Erde in 80 Tagen</title></book>
+         <book><title>F�nf Wochen im Ballon durch Afrika</title></book>
+         <book><title>Die Schatzinse</title></book>
+         <book><title>Die Millionen Des Kamylk Pascha</title></book>
+         <book><title>Die Erfindung Des Verderbens</title></book>
+         <book><title>Die 500 Millionen der Begum</title></book>
+         <book><title>Der Kurier des Zaren</title></book>
+         <book><title>20000 Meilen unter dem Meer</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Vargas</lastname>
+      <firstname>Fred</firstname>
+      <books>
+         <book><title>Der 14. Stein</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Vanderbeke</lastname>
+      <firstname>Birgit</firstname>
+      <books>
+         <book><title>Alberta empf�ngt einen Liebhaber</title></book>
+         <book><title>Abgeh�ngt</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Vandenberg</lastname>
+      <firstname>Philipp</firstname>
+      <books>
+         <book><title>Sixtinische Verschw�rung</title></book>
+         <book><title>Das vergessene Pergament</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Ustinov</lastname>
+      <firstname>Sir Peter</firstname>
+      <books>
+         <book><title>Die Reisen des Sir Peter</title></book>
+         <book><title>Die Reise geht weiter</title></book>
+         <book><title>Achtung! Vorurteile</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Twain</lastname>
+      <firstname>Mark</firstname>
+      <books>
+         <book><title>Schrecken</title></book>
+         <book><title>Mrs. McWilliams und der Blit</title></book>
+         <book><title>Kannibalismus in der Bahn</title></book>
+         <book><title>Huckleberry-Fins-Abenteuer</title></book>
+         <book><title>Eine Geistergeschichte</title></book>
+         <book><title>Eine Bluttat, ein Betrug und ein Bund f�rs Leben</title></book>
+         <book><title>Ein Yankee am Hof des K�nigs</title></book>
+         <book><title>Die Abenteuer des Tom Sawyer 2</title></book>
+         <book><title>Die Abenteuer des Tom Sawyer</title></book>
+         <book><title>Bummel durch Europa - Schweiz</title></book>
+         <book><title>Adamstagebuch</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Turow</lastname>
+      <firstname>Scott</firstname>
+      <books>
+         <book><title>Der Befehl</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Tschechow</lastname>
+      <firstname>Anton</firstname>
+      <books>
+         <book><title>Verleumdung</title></book>
+         <book><title>Rendezvous - 10 Erz�hlungen</title></book>
+         <book><title>Ohne Auslagen</title></book>
+         <book><title>Der schwarze M�nch</title></book>
+         <book><title>Der Dicke und der D�nne</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Trojanow</lastname>
+      <firstname>Ilija</firstname>
+      <books>
+         <book><title>Der Weltensammler</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Travers</lastname>
+      <firstname>Pamela L</firstname>
+      <books>
+         <book><title>Mary Poppins</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Tolstoi</lastname>
+      <firstname>Leo</firstname>
+      <books>
+         <book><title>Krieg und Frieden</title></book>
+         <book><title>Anna Karenina</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Timm</lastname>
+      <firstname>Uwe</firstname>
+      <books>
+         <book><title>Die Entdeckung der Currywurst</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Tidyman</lastname>
+      <firstname>Ernest</firstname>
+      <books>
+         <book><title>Shaft und die 7 Rabbiner</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Thoreau</lastname>
+      <firstname>Henry David</firstname>
+      <books>
+         <book><title>�ber die Pflicht zum Ungehorsam gegen den Staat</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Thoma</lastname>
+      <firstname>Ludwig</firstname>
+      <books>
+         <book><title>Der Wittiber (Bauernroman)</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Tamaro</lastname>
+      <firstname>Susanna</firstname>
+      <books>
+         <book><title>Feuer des Herzens</title></book>
+         <book><title>Antworte mir</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Tabucchi</lastname>
+      <firstname>Antonio</firstname>
+      <books>
+         <book><title>Erkl�rt Pereira</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+      </books>
+   </author>
+   <author>
+      <lastname>S�skind</lastname>
+      <firstname>Patrick</firstname>
+      <books>
+         <book><title>Die Geschichte von Herrn Sommer</title></book>
+         <book><title>Das Parfum</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Szerb</lastname>
+      <firstname>Antal</firstname>
+      <books>
+         <book><title>Reise im Mondlicht</title></book>
+         <book><title>Die Pendragon Legende</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Swann</lastname>
+      <firstname>Leonie</firstname>
+      <books>
+         <book><title>Glennkill</title></book>
+         <book><title>Garou</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Swann</lastname>
+      <firstname>E.L</firstname>
+      <books>
+         <book><title>Nachts, wenn der Garten bl�ht</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Suter</lastname>
+      <firstname>Martin</firstname>
+      <books>
+         <book><title>Small World</title></book>
+         <book><title>Ein perfekter Freund</title></book>
+         <book><title>Die dunkle Seite des Mondes</title></book>
+         <book><title>Der Teufel von Mailand</title></book>
+         <book><title>Der Koch</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Sulivan</lastname>
+      <firstname>Mark</firstname>
+      <books>
+         <book><title>Toxic</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Stuckrad-Barre</lastname>
+      <firstname>Benjamin von</firstname>
+      <books>
+         <book><title>Liverecordings</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Strunk</lastname>
+      <firstname>Heinz</firstname>
+      <books>
+         <book><title>Fleisch ist mein Gem�se</title></book>
+         <book><title>Fleckenteufel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Strugatzki</lastname>
+      <firstname>Akadi  Boris</firstname>
+      <books>
+         <book><title>Picknick Am Wegesrand</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Stroud</lastname>
+      <firstname>Jonathan</firstname>
+      <books>
+         <book><title>Bartim�us 3 - Die Pforte des Magiers</title></book>
+         <book><title>Bartim�us 1 - Das Amulett vom Samarkand</title></book>
+         <book><title>Bartim�us 2 - Das Auge des Golem</title></book>
+         <book><title>Die Eisfestung</title></book>
+         <book><title>Drachenglut</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Stricker</lastname>
+      <firstname>Michael</firstname>
+      <books>
+         <book><title>Das Geheimnis von Narnia</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Stoker</lastname>
+      <firstname>Bram</firstname>
+      <books>
+         <book><title>Dracula</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Stevenson</lastname>
+      <firstname>Robert Louis</firstname>
+      <books>
+         <book><title>Dr Jekyll und Mr Hyde</title></book>
+         <book><title>Die Schatzinsel 1</title></book>
+         <book><title>Die Schatzinsel - Jules Verne</title></book>
+         <book><title>Die Schatzinsel - H�rspiel</title></book>
+         <book><title>10 - Dr. Jekyell und Mr. Hyde</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+         <book><title>Rot und Schwarz</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Steinh�fel</lastname>
+      <firstname>Andreas</firstname>
+      <books>
+         <book><title>Die Mitte der Welt</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Spoerl</lastname>
+      <firstname>Heinrich</firstname>
+      <books>
+         <book><title>Die Feuerzangenbowle</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Sparks</lastname>
+      <firstname>Nicholas</firstname>
+      <books>
+         <book><title>Zeit im Wind</title></book>
+         <book><title>Wie ein einziger Tag</title></book>
+         <book><title>Weg Der Tr�ume</title></book>
+         <book><title>Nah und Fern</title></book>
+         <book><title>Das L�cheln der Sterne</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Solschenizyn</lastname>
+      <firstname>Alexander</firstname>
+      <books>
+         <book><title>Ein Tag im Leben des Ivan Denissowitsch</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Snicket</lastname>
+      <firstname>Lemony</firstname>
+      <books>
+         <book><title>Folge 3 - Das zerbrochene Fenster</title></book>
+         <book><title>Die dunkle Allee</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Slaughter</lastname>
+      <firstname>Karin</firstname>
+      <books>
+         <book><title>Dreh dich nicht um</title></book>
+         <book><title>Belladonna</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+         <book><title>Kommissar Becks 10. Fall - Die Terroristen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Sijie</lastname>
+      <firstname>Dai</firstname>
+      <books>
+         <book><title>Balzac und die kleine chinesische Schneiderin</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Siemes</lastname>
+      <firstname>Christof</firstname>
+      <books>
+         <book><title>Das Wunder von Bern</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Siegel</lastname>
+      <firstname>James</firstname>
+      <books>
+         <book><title>Entgleist</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Sick</lastname>
+      <firstname>Bastian</firstname>
+      <books>
+         <book><title>Der Dativ ist dem Genitiv sein Tod 3</title></book>
+         <book><title>Der Dativ ist dem Genitiv sein Tod 2</title></book>
+         <book><title>Der Dativ ist dem Genitiv sein Tod</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Shreve</lastname>
+      <firstname>Anita</firstname>
+      <books>
+         <book><title>Das Gewicht des Wassers</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Shaw</lastname>
+      <firstname>Patricia</firstname>
+      <books>
+         <book><title>Weites Wildes Land</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Shalev</lastname>
+      <firstname>Meir</firstname>
+      <books>
+         <book><title>Judiths Liebe-ungek�rzte Lesung</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Serno</lastname>
+      <firstname>Wolf</firstname>
+      <books>
+         <book><title>Die Hitzkammer</title></book>
+         <book><title>Der Wanderchirurg</title></book>
+         <book><title>Der Balsamtr�ger</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Seghers</lastname>
+      <firstname>Jan</firstname>
+      <books>
+         <book><title>Ein allzu sch�nes M�dchen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Sedaris</lastname>
+      <firstname>David</firstname>
+      <books>
+         <book><title>Nackt</title></book>
+         <book><title>Asche - Short Story aus Naked</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Scott</lastname>
+      <firstname>Walter Sir</firstname>
+      <books>
+         <book><title>Ivanhoe</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Schweikert</lastname>
+      <firstname>Ulrike</firstname>
+      <books>
+         <book><title>Das Jahr der Verschw�rer</title></book>
+         <book><title>Das Herz der Nacht</title></book>
+         <book><title>Die Erben der Nacht 01 - Nosferas</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Schwarzman</lastname>
+      <firstname>Ori</firstname>
+      <books>
+         <book><title>Mondscheinm�dchen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Schultze-Rhonhof</lastname>
+      <firstname>Gerd</firstname>
+      <books>
+         <book><title>Der Krieg, der viele V�ter hatte</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Schr�der</lastname>
+      <firstname>Rainer M</firstname>
+      <books>
+         <book><title>Die Bruderschaft vom heiligen Gral</title></book>
+         <book><title>Das Geheimnis des Kartenmachers</title></book>
+         <book><title>Das Geheimnis der wei�en M�nche</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Schramm</lastname>
+      <firstname>Georg</firstname>
+      <books>
+         <book><title>Schlachtenbummler</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Schott</lastname>
+      <firstname>Ben</firstname>
+      <books>
+         <book><title>Schotts Sammelsurium</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Schopenhauer</lastname>
+      <firstname>Arthur</firstname>
+      <books>
+         <book><title>Lebensweisheit</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Schnitzler</lastname>
+      <firstname>Arthur</firstname>
+      <books>
+         <book><title>Traumnovelle</title></book>
+         <book><title>Regonda</title></book>
+         <book><title>Casanovas Heimfahrt</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Schmidt</lastname>
+      <firstname>Arno</firstname>
+      <books>
+         <book><title>Verschobene Kontinente</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Schlink</lastname>
+      <firstname>Bernhard</firstname>
+      <books>
+         <book><title>Der Vorleser</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Scheuermann</lastname>
+      <firstname>Erich</firstname>
+      <books>
+         <book><title>Der Papalagi - Die Reden des S�dseeh�uptlings Tuiavii aus Tiavea</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Schenkel</lastname>
+      <firstname>Andrea Maria</firstname>
+      <books>
+         <book><title>Tann�d</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Scheer</lastname>
+      <firstname>K.H</firstname>
+      <books>
+         <book><title>Zur besonderen Verwendung ZBV 1</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Schami</lastname>
+      <firstname>Rafik</firstname>
+      <books>
+         <book><title>Murmeln meiner Kindheit - Geschichten aus Damaskus</title></book>
+         <book><title>Geschichten von Onkel Salim und andere M�rchen</title></book>
+         <book><title>Eine Hand voller Sterne</title></book>
+         <book><title>Die Farbe der Worte</title></book>
+         <book><title>Die dunkle Seite der Liebe</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Schaetzing</lastname>
+      <firstname>Frank</firstname>
+      <books>
+         <book><title>Tod und Teufel</title></book>
+         <book><title>Nachrichten Aus Einem Unbekannten Universum</title></book>
+         <book><title>Mordshunger</title></book>
+         <book><title>Keine Angst</title></book>
+         <book><title>Ein Zeichen Der Liebe</title></book>
+         <book><title>Der Schwarm</title></book>
+         <book><title>Der Puppenspieler</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Sayers</lastname>
+      <firstname>Dorothy L</firstname>
+      <books>
+         <book><title>Hochzeit kommt vor dem Fall</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Sartre</lastname>
+      <firstname>Jean-Paul</firstname>
+      <books>
+         <book><title>Kindheit eines Chefs</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Saint-Exup�ry</lastname>
+      <firstname>Antoine De</firstname>
+      <books>
+         <book><title>S�dkurier</title></book>
+         <book><title>Stadt in der W�ste</title></book>
+         <book><title>Nachtflug</title></book>
+         <book><title>Der kleine Prinz</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Sagan</lastname>
+      <firstname>Francoise</firstname>
+      <books>
+         <book><title>Bonjour Tristesse</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Sack</lastname>
+      <firstname>John</firstname>
+      <books>
+         <book><title>Im Zeichen der Seraphim</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>R�hring</lastname>
+      <firstname>Tilman</firstname>
+      <books>
+         <book><title>Ein Sturm wird kommen von Mitternacht</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Rosendorfer</lastname>
+      <firstname>Herbert</firstname>
+      <books>
+         <book><title>Die Geschichte vom J�ger als Hasen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Rollins</lastname>
+      <firstname>James</firstname>
+      <books>
+         <book><title>Feuerm�nche</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Rois</lastname>
+      <firstname>Sophie</firstname>
+      <books>
+         <book><title>Die Freundschaft</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Rodrian</lastname>
+      <firstname>Irene</firstname>
+      <books>
+         <book><title>Stimmen unter dem Dach</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Roberts</lastname>
+      <firstname>Nora</firstname>
+      <books>
+         <book><title>T�dliche Flammen</title></book>
+         <book><title>Ein Meer von Leidenschaft</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Roberts</lastname>
+      <firstname>Monty</firstname>
+      <books>
+         <book><title>Das Wissen der Pferde</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Rinser</lastname>
+      <firstname>Luise</firstname>
+      <books>
+         <book><title>Jan Lobel aus Warschau</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Rilke</lastname>
+      <firstname>Rainer Maria</firstname>
+      <books>
+         <book><title>Wunderweisse N�chte</title></book>
+         <book><title>Tag</title></book>
+         <book><title>Sonette</title></book>
+         <book><title>Panther</title></book>
+         <book><title>Liebeslied</title></book>
+         <book><title>Herbsttag</title></book>
+         <book><title>Geschichten vom lieben Gott</title></book>
+         <book><title>Flucht</title></book>
+         <book><title>Elegien 1-5</title></book>
+         <book><title>Die Aufzeichnungen</title></book>
+         <book><title>Cornet</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Ridley</lastname>
+      <firstname>Philip</firstname>
+      <books>
+         <book><title>Der Meteoritenl�ffel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Rice</lastname>
+      <firstname>Anne</firstname>
+      <books>
+         <book><title>Memnoch der Teufel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Remin</lastname>
+      <firstname>Nicolas</firstname>
+      <books>
+         <book><title>01 Commissario Tron - Schnee in Venedig</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Reichs</lastname>
+      <firstname>Kathy</firstname>
+      <books>
+         <book><title>Totgeglaubte Leben L�nger</title></book>
+         <book><title>Totenmontag</title></book>
+         <book><title>Mit Haut und Haar</title></book>
+         <book><title>Knochenlese</title></book>
+         <book><title>Knochen zu Asche</title></book>
+         <book><title>Durch Mark und Bein</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Reiche</lastname>
+      <firstname>Dietlof</firstname>
+      <books>
+         <book><title>Das Geisterschiff</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Reich-Ranicki</lastname>
+      <firstname>Marcel</firstname>
+      <books>
+         <book><title>Texte von und �ber Bertolt Brecht</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Regnier</lastname>
+      <firstname>Charles</firstname>
+      <books>
+         <book><title>spricht Kipphardt_Mann_Miller</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Regener</lastname>
+      <firstname>Sven</firstname>
+      <books>
+         <book><title>Neue Vahr S�d</title></book>
+         <book><title>Herr Lehmann</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Rees</lastname>
+      <firstname>Celia</firstname>
+      <books>
+         <book><title>Piraten !</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Redfield</lastname>
+      <firstname>James</firstname>
+      <books>
+         <book><title>Die Prophezeiungen von Celestine</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Ray</lastname>
+      <firstname>Kitty</firstname>
+      <books>
+         <book><title>Himmel �ber Waterslain</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Rankin</lastname>
+      <firstname>Ian</firstname>
+      <books>
+         <book><title>So soll er sterben</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Quint</lastname>
+      <firstname>Michel</firstname>
+      <books>
+         <book><title>Die schrecklichen G�rten</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Quadflieg</lastname>
+      <firstname>Will</firstname>
+      <books>
+         <book><title>spricht B�chner_Cechov_Frisch</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Puzo</lastname>
+      <firstname>Mario</firstname>
+      <books>
+         <book><title>Der Pate</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Proust</lastname>
+      <firstname>Marcel</firstname>
+      <books>
+         <book><title>Combray</title></book>
+         <book><title>Auf der Suche nach der verlorenen Zeit - In Swanns Welt</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Preston</lastname>
+      <firstname>Douglas</firstname>
+      <books>
+         <book><title>Mount Dragon - Das t�tliche Labor</title></book>
+         <book><title>7 Maniac - Fluch der Vergangenheit - klein</title></book>
+         <book><title>7 Maniac - Fluch der Vergangenheit - gro�</title></book>
+         <book><title>6 Dark Secret lang</title></book>
+         <book><title>6 Dark secret - M�rderische Jagd</title></book>
+         <book><title>5 Burn Case - Geruch des Teufels</title></book>
+         <book><title>4 Ritual - H�hle des Schreckens</title></book>
+         <book><title>3 Formula - Tunnel des Grauens</title></book>
+         <book><title>2 Attic - Gefahr aus der Tiefe - kleine</title></book>
+         <book><title>2 Attic - Gefahr aus der Tiefe - gro�</title></book>
+         <book><title>1 Relict - Museum der Angst</title></book>
+         <book><title>IceShip</title></book>
+         <book><title>Riptide</title></book>
+         <book><title>Thunderhead</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Prange</lastname>
+      <firstname>Peter</firstname>
+      <books>
+         <book><title>Die Philosophin</title></book>
+         <book><title>Das Bernsteinamulett</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Popper</lastname>
+      <firstname>Karl</firstname>
+      <books>
+         <book><title>Kritik und Vernunft</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Polt</lastname>
+      <firstname>Gerhard</firstname>
+      <books>
+         <book><title>Fast wia im richtigen Leben</title></book>
+         <book><title>Die Klassiker</title></book>
+         <book><title>Die ganze Welt und �berhaupt</title></book>
+         <book><title>Der unbekannte Valentin</title></book>
+         <book><title>Abfent, Abfent</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Poe</lastname>
+      <firstname>Edgar Allan</firstname>
+      <books>
+         <book><title>Schauergeschichten</title></book>
+         <book><title>Portr�t</title></book>
+         <book><title>Pendel</title></book>
+         <book><title>Maske des roten Todes</title></book>
+         <book><title>Lebendig begraben</title></book>
+         <book><title>Kurzgeschichten</title></book>
+         <book><title>Kiste</title></book>
+         <book><title>Kater</title></book>
+         <book><title>Im Wirbel des Malstroms</title></book>
+         <book><title>Herz</title></book>
+         <book><title>Getan</title></book>
+         <book><title>Froschh�pfer</title></book>
+         <book><title>Eleonora</title></book>
+         <book><title>Die Morde in der Rue Morgue</title></book>
+         <book><title>Der Untergang des Hauses Usher</title></book>
+         <book><title>Der Goldk�fer</title></book>
+         <book><title>Der entwendete Brief</title></book>
+         <book><title>Bergen</title></book>
+         <book><title>Annabel</title></book>
+         <book><title>Amontillado</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+         <book><title>Verteidigungsrede des Sokrates</title></book>
+         <book><title>Tod Des Sokrates</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Pirincci</lastname>
+      <firstname>Akif</firstname>
+      <books>
+         <book><title>Felidae</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Pilcher</lastname>
+      <firstname>Rosamunde</firstname>
+      <books>
+         <book><title>Zauber des Augenblicks</title></book>
+         <book><title>Weihnachten</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+      </books>
+   </author>
+   <author>
+      <lastname>Peter</lastname>
+      <firstname>James</firstname>
+      <books>
+         <book><title>Stirb ewig</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Perry</lastname>
+      <firstname>Anne</firstname>
+      <books>
+         <book><title>Das Gesicht des Fremden</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Pease</lastname>
+      <firstname>Allan und Barbara</firstname>
+      <books>
+         <book><title>Warum M�nner nicht zuh�ren und Frauen schlecht einparken</title></book>
+         <book><title>Warum M�nner l�gen und Frauen dauernd Schuhe kaufen</title></book>
+         <book><title>M�nner, Frauen und Sex</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Paul</lastname>
+      <firstname>Jean</firstname>
+      <books>
+         <book><title>Leben des vergn�gten Schulmeisterlein Maria Wutz</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Pattison</lastname>
+      <firstname>Eliot</firstname>
+      <books>
+         <book><title>Der fremde Tibeter</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Patterson</lastname>
+      <firstname>James</firstname>
+      <books>
+         <book><title>Wenn die M�use Katzen jagen</title></book>
+         <book><title>Sonne, Mord und Sterne</title></book>
+         <book><title>Rosenrot, Mausetot</title></book>
+         <book><title>Die Rache des Kreutzfahres</title></book>
+         <book><title>Das Ikarus Gen</title></book>
+         <book><title>Tagebuch f�r Nikolas</title></book>
+         <book><title>Das achte Gedaechtnis</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Paolini</lastname>
+      <firstname>Christopher</firstname>
+      <books>
+         <book><title>Eragon</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Pamuk</lastname>
+      <firstname>Orhan</firstname>
+      <books>
+         <book><title>Schnee</title></book>
+         <book><title>Geschichten einer Stadt</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Paasilinna</lastname>
+      <firstname>Arto</firstname>
+      <books>
+         <book><title>Die Giftk�chin</title></book>
+         <book><title>Der wunderbare Massenselbstmord</title></book>
+         <book><title>Der liebe Gott macht blau</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Oppel</lastname>
+      <firstname>Kenneth</firstname>
+      <books>
+         <book><title>Wolkenpanther</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Oelker</lastname>
+      <firstname>Petra</firstname>
+      <books>
+         <book><title>Tod am Zollhaus</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>O'Brien</lastname>
+      <firstname>Flann</firstname>
+      <books>
+         <book><title>Auf Schwimmen-zwei-V�gel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Nothomb</lastname>
+      <firstname>Amelie</firstname>
+      <books>
+         <book><title>Mit Staunen und Zittern</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Noll</lastname>
+      <firstname>Ingrid</firstname>
+      <books>
+         <book><title>Selige Witwen</title></book>
+         <book><title>Die Sekret�rin, Drei Rachegeschichten</title></book>
+         <book><title>Die Apothekerin</title></book>
+         <book><title>Der Hahn ist tot</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Nimmo</lastname>
+      <firstname>Jenny</firstname>
+      <books>
+         <book><title>Charlie Bone und die magische Zeitkugel</title></book>
+         <book><title>Charlie Bone und das Geheimnis der sprechenden Bilder</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Nichol</lastname>
+      <firstname>James W</firstname>
+      <books>
+         <book><title>Ausgesetzt</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Nesser</lastname>
+      <firstname>Hakan</firstname>
+      <books>
+         <book><title>Sein letzter Fall</title></book>
+         <book><title>M�nsters Fall</title></book>
+         <book><title>Kim Novak badete nie im See von Genezareth</title></book>
+         <book><title>Die Fliege und Die Ewigkeit</title></book>
+         <book><title>Der Tote vom Strand</title></book>
+         <book><title>Der Kommissar und das Schweigen</title></book>
+         <book><title>Das Vierte Opfer</title></book>
+         <book><title>Aus Dr. Klimkes Perspektive</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Nehberg</lastname>
+      <firstname>R�diger</firstname>
+      <books>
+         <book><title>Atlantik Tagebuch</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Navarro</lastname>
+      <firstname>Julia</firstname>
+      <books>
+         <book><title>Die stumme Bruderschaft</title></book>
+         <book><title>Die Biebel Verschw�rung</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Nadolny</lastname>
+      <firstname>Sten</firstname>
+      <books>
+         <book><title>Die Entdeckung der Langsamkeit</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Nabokov</lastname>
+      <firstname>Vladimir</firstname>
+      <books>
+         <book><title>Lolita</title></book>
+         <book><title>Der Zauberer</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Musil</lastname>
+      <firstname>Robert</firstname>
+      <books>
+         <book><title>Der Mann ohne Eigenschaften 1. Buch</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Murakami</lastname>
+      <firstname>Haruki</firstname>
+      <books>
+         <book><title>Mister Aufziehvogel</title></book>
+         <book><title>Kafka am Strand</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Mulisch</lastname>
+      <firstname>Harry</firstname>
+      <books>
+         <book><title>Zwei Frauen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Mueller-Stahl</lastname>
+      <firstname>Armin</firstname>
+      <books>
+         <book><title>Hannah</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Morus</lastname>
+      <firstname>Thomas</firstname>
+      <books>
+         <book><title>Utopia</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Morrisey</lastname>
+      <firstname>Di</firstname>
+      <books>
+         <book><title>Die Perlenz�chterin</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Morgenstern</lastname>
+      <firstname>Barbara</firstname>
+      <books>
+         <book><title>Season's (2002)</title></book>
+         <book><title>Nichts Muss</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Morgan</lastname>
+      <firstname>Marlo</firstname>
+      <books>
+         <book><title>Traumf�nger</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Moore</lastname>
+      <firstname>Michael</firstname>
+      <books>
+         <book><title>Volle Deckung Mr Bus</title></book>
+         <book><title>Stupid White Men Deutsch</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Moore</lastname>
+      <firstname>Christopher</firstname>
+      <books>
+         <book><title>Die Bibel nach Biff</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Montanari</lastname>
+      <firstname>Richard</firstname>
+      <books>
+         <book><title>Crucifix</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Mohr</lastname>
+      <firstname>B�rbel</firstname>
+      <books>
+         <book><title>Bestellungen beim Universum</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Moers</lastname>
+      <firstname>Walter</firstname>
+      <books>
+         <book><title>Wilde Reise durch die Nacht</title></book>
+         <book><title>Sch�ner leben mit dem Kleinen Arschloch</title></book>
+         <book><title>Rumo</title></book>
+         <book><title>Klingelton Adolf Du alte Nazisau</title></book>
+         <book><title>Ensel und Krete</title></book>
+         <book><title>Du alte Nazisau - Ich hock in meinem Bonker</title></book>
+         <book><title>Die Stadt der Tr�umenden B�cher</title></book>
+         <book><title>Die Schimauski-Methode</title></book>
+         <book><title>Die 13 1_2 Leben Des K�pt_n Blaub�r</title></book>
+         <book><title>Der Orgasmus</title></book>
+         <book><title>Der F�nig</title></book>
+         <book><title>Der Schrecksenmeister</title></book>
+         <book><title>Der Schrecksenmeister 2</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+         <book><title>Jetzt mit noch mehr M�nner</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Millet</lastname>
+      <firstname>Catherine</firstname>
+      <books>
+         <book><title>Das sexuelle Leben der Catherine M</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+         <book><title>In Freiheit leben - Jean Paul Sartre und seine Zeit</title></book>
+         <book><title>Charles Lindbergh, Flieger</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Michaels</lastname>
+      <firstname>Anne</firstname>
+      <books>
+         <book><title>Fluchtst�cke</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Meyrink</lastname>
+      <firstname>Gustav</firstname>
+      <books>
+         <book><title>Wachsfigurenkabinett</title></book>
+         <book><title>Das Pr�parat</title></book>
+         <book><title>Bal Macabre</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Mercier</lastname>
+      <firstname>Pascal</firstname>
+      <books>
+         <book><title>Nachtzug nach Lissabon</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Melville</lastname>
+      <firstname>Hermann</firstname>
+      <books>
+         <book><title>Moby Dick H�rspiel</title></book>
+         <book><title>Moby Dick H�rbuch</title></book>
+         <book><title>Moby Dick</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Meier</lastname>
+      <firstname>Manfred</firstname>
+      <books>
+         <book><title>Das Wunder von Lengede</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Mehari</lastname>
+      <firstname>Senait G</firstname>
+      <books>
+         <book><title>Feuerherz</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>McKinley</lastname>
+      <firstname>Tamara</firstname>
+      <books>
+         <book><title>Das Versprechen des Opals</title></book>
+         <book><title>Anemonen im Wind</title></book>
+         <book><title>Das Lied des Regenpfeifers</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Mcfadyen</lastname>
+      <firstname>Cody</firstname>
+      <books>
+         <book><title>Die Blutlinie</title></book>
+         <book><title>Das B�se in uns 2. Teil</title></book>
+         <book><title>Der Todesk�nstler 3.Teil</title></book>
+         <book><title>Die Blutlinie_1. Teil</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>McDermid</lastname>
+      <firstname>Val</firstname>
+      <books>
+         <book><title>Wen es trifft - und Wer den Wagen ins Rollen bringt</title></book>
+         <book><title>T�dliche Aff�re</title></book>
+         <book><title>Ein Ort f�r die Ewigkeit</title></book>
+         <book><title>Ein kalter Strom</title></book>
+         <book><title>Die Erfinder des Todes</title></book>
+         <book><title>Das Moor des Vergessens</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+         <book><title>Die Abenteuer Des Jungen Indiana Jones</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>May</lastname>
+      <firstname>Karl</firstname>
+      <books>
+         <book><title>Winnetou--Old-Shatterhand</title></book>
+         <book><title>Winnetou 1 - CD 08-14</title></book>
+         <book><title>Winnetou 1 - CD 01-07</title></book>
+         <book><title>Ja Uff Erstmal (Winnetou Unter Comedy Geiern)</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Maupassant</lastname>
+      <firstname>Guy de</firstname>
+      <books>
+         <book><title>Das Freudenhaus</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Maugham</lastname>
+      <firstname>W. Somerset</firstname>
+      <books>
+         <book><title>Unbesiegt</title></book>
+         <book><title>Erz�hlungen - Aufgekl�rt</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Mattes</lastname>
+      <firstname>Eva</firstname>
+      <books>
+         <book><title>Jauche und Levkojen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+         <book><title>Ich denke, also bin ich</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Marx</lastname>
+      <firstname>Karl</firstname>
+      <books>
+         <book><title>Das Manifest der kommunistischen Partei</title></book>
+         <book><title>Das Kapital</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Martin</lastname>
+      <firstname>Hansj�rg</firstname>
+      <books>
+         <book><title>Der Tod in der Thermosflasche</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Maron</lastname>
+      <firstname>Eric</firstname>
+      <books>
+         <book><title>Die F�rstin</title></book>
+         <book><title>Die Rebellinnen von Mallorca</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Mann</lastname>
+      <firstname>Heinrich</firstname>
+      <books>
+         <book><title>Der Untertan</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Mankell</lastname>
+      <firstname>Henning</firstname>
+      <books>
+         <book><title>Zeit im Dunkeln</title></book>
+         <book><title>Vor dem Frost</title></book>
+         <book><title>Tea Bag</title></book>
+         <book><title>M�rder ohne Gesicht</title></book>
+         <book><title>Mittsommermord</title></book>
+         <book><title>Kommissar Wallander - Die falsche F�hrte</title></book>
+         <book><title>Kennedys Hirn</title></book>
+         <book><title>Hunde von Riga</title></book>
+         <book><title>Ein Kater schwarz wie die Nacht</title></book>
+         <book><title>Die weisse L�win</title></book>
+         <book><title>Die Schatten wachsen in der D�mmerung</title></book>
+         <book><title>Die R�ckkehr des Tanzlehrers</title></book>
+         <book><title>Die rote Antilope</title></book>
+         <book><title>Die Pyramide</title></book>
+         <book><title>Die f�nfte Frau H�rspiel</title></book>
+         <book><title>Die f�nfte Frau</title></book>
+         <book><title>Die fl�sternden Seelen</title></book>
+         <book><title>Die falsche F�hrte</title></book>
+         <book><title>Die Brandmauer</title></book>
+         <book><title>Der Tod des Fotografen</title></book>
+         <book><title>Der Mann mit der Maske</title></book>
+         <book><title>Der Mann Der L�chelte</title></book>
+         <book><title>Der Junge, der im Schnee schlief</title></book>
+         <book><title>Der Hund der unterwegs zu einem Stern</title></book>
+         <book><title>Der Chronist der Winde</title></book>
+         <book><title>Der Gewissenlose M�rder</title></book>
+         <book><title>Die Reise ans Ende der Welt</title></book>
+         <book><title>Hunde von Riga H�spiel</title></book>
+         <book><title>Feind im Schatten</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Manfredi</lastname>
+      <firstname>Valerio M</firstname>
+      <books>
+         <book><title>Das Etrustische Ritual</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>L�witsch</lastname>
+      <firstname>Klaus</firstname>
+      <books>
+         <book><title>Wittgenstein</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Lylith 1-4</lastname>
+      <firstname>H�rspiel</firstname>
+      <books>
+         <book><title> Lylith-4-Die Schlucht Der Schreienden Seelen</title></book>
+         <book><title> Lylith-3-Der Baum Des Gaalin - By Summoner</title></book>
+         <book><title> Lylith-2-Die Magische Verwandlung - By Summoner For Hoerbar Fr St</title></book>
+         <book><title> Lylith-1-Balars Erbe - By Summoner For Hoerbar Fr St</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Luxemburg</lastname>
+      <firstname>Rosa</firstname>
+      <books>
+         <book><title>Ich War, Ich Bin</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Lundin</lastname>
+      <firstname>Stephen</firstname>
+      <books>
+         <book><title>Fish! - Ein ungewohnliches Motivations</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Lumley</lastname>
+      <firstname>Brian</firstname>
+      <books>
+         <book><title>Necroscope</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Lukianenko</lastname>
+      <firstname>Sergej</firstname>
+      <books>
+         <book><title>W�chter (12) Das gemeinsame Schicksal (3h50)</title></book>
+         <book><title>W�chter (11) Der gemeinsame Feind (4h33)</title></book>
+         <book><title>W�chter (10) Die gemeinsame Sache (5h36)</title></book>
+         <book><title>W�chter (09) Niemandskraft (5h13)</title></book>
+         <book><title>W�chter (08) Niemandsraum (5h)</title></book>
+         <book><title>W�chter (07) Niemandszeit (4h27)</title></book>
+         <book><title>W�chter (06) Eine andere Kraft (5h39)</title></book>
+         <book><title>W�chter (05) Fremd unter Anderen (4h53)</title></book>
+         <book><title>W�chter (04) Zutritt f�r Unbefugte erlaubt (5h09)</title></book>
+         <book><title>W�chter (03) Im eigenen Saft (4h29)</title></book>
+         <book><title>W�chter (02) der Nacht 2 (5h18)</title></book>
+         <book><title>W�chter (01) der Nacht 1 (6h)</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Ludlum</lastname>
+      <firstname>Robert</firstname>
+      <books>
+         <book><title>Die Bourne Identit�t</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Lovecraft</lastname>
+      <firstname>Howard P</firstname>
+      <books>
+         <book><title>J�ger der Finsternis</title></book>
+         <book><title>Der Schatten �ber Innsmouth</title></book>
+         <book><title>Der Schatten aus der Zeit</title></book>
+         <book><title>Der Ruf Des D�mon - Band 2</title></book>
+         <book><title>Der Ruf Des D�mon</title></book>
+         <book><title>Der leuchtende Trapezoeder</title></book>
+         <book><title>Der Fl�sterer im Dunkeln</title></book>
+         <book><title>Der Cthulhu Mythos</title></book>
+         <book><title>Das gemiedene Haus</title></book>
+         <book><title>Das Fest</title></book>
+         <book><title>Das Ding auf der Schwelle, die Ratten im Gem�uer</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Lorentz</lastname>
+      <firstname>Iny</firstname>
+      <books>
+         <book><title>Die Wanderhure</title></book>
+         <book><title>Die Tatarin</title></book>
+         <book><title>Die Pilgerin</title></book>
+         <book><title>Das Verm�chtnis der Wanderhure</title></book>
+         <book><title>Die L�win</title></book>
+         <book><title>Die Kastratin</title></book>
+         <book><title>Aprilgewitter</title></book>
+         <book><title>Die Rose von Asturien</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>London</lastname>
+      <firstname>Jack</firstname>
+      <books>
+         <book><title>Der Seewolf</title></book>
+         <book><title>Der Lockruf des Goldes</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Loco</lastname>
+      <firstname>Onkel</firstname>
+      <books>
+         <book><title>Die Dr3i - Das Haus der 1000 R�tsel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Link</lastname>
+      <firstname>Charlotte</firstname>
+      <books>
+         <book><title>Die T�uschung</title></book>
+         <book><title>Das Verh�ngnis</title></book>
+         <book><title>Am Ende des Schweigens</title></book>
+         <book><title>Der fremde Gast</title></book>
+         <book><title>Der Verehrer</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Lindsay</lastname>
+      <firstname>Jeff</firstname>
+      <books>
+         <book><title>Des Todes dunkler Bruder</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Lindenberg</lastname>
+      <firstname>Udo</firstname>
+      <books>
+         <book><title>Panikpr�sident</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Lichtenberg</lastname>
+      <firstname>Georg Christopf</firstname>
+      <books>
+         <book><title>Aphorismen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Lewis</lastname>
+      <firstname>Clive Staples</firstname>
+      <books>
+         <book><title>Die Chroniken von Narnia</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Levy</lastname>
+      <firstname>Marc</firstname>
+      <books>
+         <book><title>Solange du da bist</title></book>
+         <book><title>Marc Levy - Sieben Tage f�r die Ewigkeit</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Leroux</lastname>
+      <firstname>Gaston</firstname>
+      <books>
+         <book><title>Das Phantom der Oper</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Leon</lastname>
+      <firstname>Donna</firstname>
+      <books>
+         <book><title>Blutige Steine</title></book>
+         <book><title>13 Doctored Evidence</title></book>
+         <book><title>13 Beweise, dass es b�se ist</title></book>
+         <book><title>12 Verschwiegene Kanaele</title></book>
+         <book><title>11 Die dunkle Stunde der Serenissima</title></book>
+         <book><title>10 Das Gesetz der Lagune</title></book>
+         <book><title>09 Feine Freunde</title></book>
+         <book><title>08 In Sachen Signora Brunetti</title></book>
+         <book><title>07 Nobilit�</title></book>
+         <book><title>06 Sanft entschlafen</title></book>
+         <book><title>05 Acqua Alta</title></book>
+         <book><title>04 Vendetta</title></book>
+         <book><title>03 Venezianische Scharade</title></book>
+         <book><title>02 Endstation Venedig</title></book>
+         <book><title>01 Venezianisches Finale</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Lem</lastname>
+      <firstname>Stanislaw</firstname>
+      <books>
+         <book><title>Zifferoticon</title></book>
+         <book><title>Sterntageb�cher - Aus den Erinnerungen Ijon Tichys</title></book>
+         <book><title>R�ckkehr zur Erde</title></book>
+         <book><title>Eden</title></book>
+         <book><title>Der Wei�e Tod</title></book>
+         <book><title>Der Unbesiegbare</title></book>
+         <book><title>Der Prophet von Krakau</title></book>
+         <book><title>Der getreue Roboter</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Lassiter</lastname>
+      <firstname>Rhiannon</firstname>
+      <books>
+         <book><title>Die Ranch der sch�nen Frauen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Lakomy</lastname>
+      <firstname>Reinhard</firstname>
+      <books>
+         <book><title>Mimmelitt das Stadtkaninchen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>K�rthy</lastname>
+      <firstname>Ildiko von</firstname>
+      <books>
+         <book><title>Mondscheintarif</title></book>
+         <book><title>H�henrausch</title></book>
+         <book><title>Herzsprung</title></book>
+         <book><title>Freizeichen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kubelka</lastname>
+      <firstname>Susanne</firstname>
+      <books>
+         <book><title>Ophelia lernt Schwimmen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kr�ss</lastname>
+      <firstname>James</firstname>
+      <books>
+         <book><title>Der Leuchtturm auf den Hummerclippen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Krusche</lastname>
+      <firstname>Helmut</firstname>
+      <books>
+         <book><title>Der Frosch auf der Butter</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Krug</lastname>
+      <firstname>Manfred</firstname>
+      <books>
+         <book><title>Abgehauen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kraus</lastname>
+      <firstname>Sonya</firstname>
+      <books>
+         <book><title>Baustelle Mann</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kraus</lastname>
+      <firstname>Karl</firstname>
+      <books>
+         <book><title>Die letzten Tage der Menschheit</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Krakauer</lastname>
+      <firstname>Jon</firstname>
+      <books>
+         <book><title>In eisige H�hen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kostova</lastname>
+      <firstname>Elisabeth</firstname>
+      <books>
+         <book><title>Der Historiker</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Koser</lastname>
+      <firstname>Michael</firstname>
+      <books>
+         <book><title>Professor van Dusen</title></book>
+         <book><title>Der letzte Detektiv</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Konsalik</lastname>
+      <firstname>Heinz G</firstname>
+      <books>
+         <book><title>Wer stirbt schon gerne unter Palmen</title></book>
+         <book><title>Fronttheater</title></book>
+         <book><title>Die Liebesverschw�rung</title></book>
+         <book><title>Die gr�nen Augen von Finchley</title></book>
+         <book><title>Der rostende Ruhm</title></book>
+         <book><title>Das Bernsteinzimmer</title></book>
+         <book><title>Bitters��es siebtes Jahr</title></book>
+         <book><title>Der Bastian</title></book>
+         <book><title>Der Leibarzt der Zaarin</title></book>
+         <book><title>Der Schatten des Adlers</title></book>
+         <book><title>Der Transsibirien Express</title></book>
+         <book><title>Die Bucht Der Schwarzen Perlen</title></book>
+         <book><title>Die Ecstasy-Aff�re</title></book>
+         <book><title>Die Gutachterin</title></book>
+         <book><title>Im Auftrag des Tigers</title></book>
+         <book><title>Madelene Tel 136211</title></book>
+         <book><title>Nachts wenn der Teufel kam</title></book>
+         <book><title>Nur der Pudding h�rt</title></book>
+         <book><title>Paradies neu zu vermieten</title></book>
+         <book><title>Zerfetzte Segel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Koinegg</lastname>
+      <firstname>Karlheinz</firstname>
+      <books>
+         <book><title>Die R�uber vom Liang Schan Moor</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Koczian</lastname>
+      <firstname>Johanna von</firstname>
+      <books>
+         <book><title>Abenteuer in der Vollmondnacht</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Knopp</lastname>
+      <firstname>Guido</firstname>
+      <books>
+         <book><title>Zw�lf Jahre - Hitler und sein Reich (02) Die Deu</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Knef</lastname>
+      <firstname>Hildegard</firstname>
+      <books>
+         <book><title>Der geschenkte Gaul</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Knebel</lastname>
+      <firstname>Herbert</firstname>
+      <books>
+         <book><title>Unter Strom</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kinski</lastname>
+      <firstname>Klaus</firstname>
+      <books>
+         <book><title>Jesus Christus Erl�ser</title></book>
+         <book><title>Ich bin so wild nach Deinem Erdbeermund</title></book>
+         <book><title>Fieber</title></book>
+         <book><title>Kinski Spricht Werke Der Weltliteratur (Box Set)</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kinsella</lastname>
+      <firstname>Sophie</firstname>
+      <books>
+         <book><title>Vom Umtausch ausgeschlossen</title></book>
+         <book><title>Sag's Nicht Weiter Liebling</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kinkel</lastname>
+      <firstname>Tanja</firstname>
+      <books>
+         <book><title>G�tterd�mmerung</title></book>
+         <book><title>Die Puppenspieler</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Khoury</lastname>
+      <firstname>Raymond</firstname>
+      <books>
+         <book><title>Scriptum</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Keyes</lastname>
+      <firstname>Marian</firstname>
+      <books>
+         <book><title>Sushi f�r Anf�nger</title></book>
+         <book><title>Pusteblume</title></book>
+         <book><title>Lucy Sullivan wird heiraten</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Keun</lastname>
+      <firstname>Irmgard</firstname>
+      <books>
+         <book><title>Das kunstseidene M�dchen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kertesz</lastname>
+      <firstname>Imre</firstname>
+      <books>
+         <book><title>Ich, ein anderer</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kerkeling</lastname>
+      <firstname>Hape</firstname>
+      <books>
+         <book><title>Ich bin dann mal weg</title></book>
+         <book><title>Ein Mann ein Fjord 2007</title></book>
+         <book><title>Amore und Son Quatsch</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kempowski</lastname>
+      <firstname>Walter</firstname>
+      <books>
+         <book><title>Tadell�ser und Wolff</title></book>
+         <book><title>Der Krieg geht zu Ende</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kehlmann</lastname>
+      <firstname>Daniel</firstname>
+      <books>
+         <book><title>Die Vermessung der Welt</title></book>
+         <book><title>Ein Roman in neun Geschichten</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Katzenbach</lastname>
+      <firstname>John</firstname>
+      <books>
+         <book><title>Die Anstalt</title></book>
+         <book><title>Der Patient</title></book>
+         <book><title>Das Opfer</title></book>
+         <book><title>Der Fotograf</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kaminer</lastname>
+      <firstname>Wladimir</firstname>
+      <books>
+         <book><title>Russendisko</title></book>
+         <book><title>Die Reise nach Trulala</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kalmann</lastname>
+      <firstname>Anna</firstname>
+      <books>
+         <book><title>Winter in Kanada</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kahl</lastname>
+      <firstname>Ernst</firstname>
+      <books>
+         <book><title>Best of Bestiarium Perversum</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>J�cker</lastname>
+      <firstname>Detlev</firstname>
+      <books>
+         <book><title>Der Regenbogenfisch</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Jonas</lastname>
+      <firstname>Bruno</firstname>
+      <books>
+         <book><title>Bin ich noch zu retten</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Jelinek</lastname>
+      <firstname>Elfriede</firstname>
+      <books>
+         <book><title>Lust</title></book>
+         <book><title>Die Klavierspielerin</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Jaud</lastname>
+      <firstname>Tommy</firstname>
+      <books>
+         <book><title>Vollidiot</title></book>
+         <book><title>Resturlaub</title></book>
+         <book><title>Million�r</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Jaivin</lastname>
+      <firstname>Linda</firstname>
+      <books>
+         <book><title>Haut und Haar</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Irving</lastname>
+      <firstname>John</firstname>
+      <books>
+         <book><title>Witwe f�r ein Jahr</title></book>
+         <book><title>Gottes Werk Und Teufels Beitrag</title></book>
+         <book><title>Garp und wie er die Welt sah</title></book>
+         <book><title>Die vierte Hand</title></book>
+         <book><title>Die pension Grillparzer</title></book>
+         <book><title>Das Hotel New Hampshire</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Indridason</lastname>
+      <firstname>Arnaldur</firstname>
+      <books>
+         <book><title>Todeshauch (Island Krimi)</title></book>
+         <book><title>Nordermoor</title></book>
+         <book><title>Menschens�hne</title></book>
+         <book><title>Engelsstimme</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Illies</lastname>
+      <firstname>Florian</firstname>
+      <books>
+         <book><title>Generation Golf 2</title></book>
+         <book><title>Anleitung zum Unschuldigsein</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+         <book><title>Night Passage demixed</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Huxley</lastname>
+      <firstname>Aldous</firstname>
+      <books>
+         <book><title>Sch�ne neue Welt</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Houellebecq</lastname>
+      <firstname>Michel</firstname>
+      <books>
+         <book><title>Elementarteilchen</title></book>
+         <book><title>Die M�glichkeit einer Insel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Horvath</lastname>
+      <firstname>�.v</firstname>
+      <books>
+         <book><title>36 Stunden. Die Geschichte vom Fr�ulein Pollinger</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hortense</lastname>
+      <firstname>Ullrich</firstname>
+      <books>
+         <book><title>Andere L�nder, andere K�sse</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+         <book><title>Der Kampf um Troja</title></book>
+         <book><title>Ilias</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hohlbein</lastname>
+      <firstname>Wolfgang</firstname>
+      <books>
+         <book><title>Wolfsherz</title></book>
+         <book><title>Operation Nautilus - 12 CD's</title></book>
+         <book><title>Neues vom Hexer von Salem</title></book>
+         <book><title>Nemesis -4- In dunkelster Nacht</title></book>
+         <book><title>Nemesis -3- Alptraumzeit</title></book>
+         <book><title>Nemesis -2- Geisterstunde</title></book>
+         <book><title>Nemesis -1- Die Zeit vor Mitternacht</title></book>
+         <book><title>M�rchenmond</title></book>
+         <book><title>Intruder</title></book>
+         <book><title>Hagen von Tronje</title></book>
+         <book><title>Flut</title></book>
+         <book><title>Feuer</title></book>
+         <book><title>Dunkel</title></book>
+         <book><title>Drachenthal - 03 Die Zauberkugel</title></book>
+         <book><title>Drachenthal - 02 Das Layrinth</title></book>
+         <book><title>Drachenthal - 01 Die Entdeckung</title></book>
+         <book><title>Die T�chter des Drachen</title></book>
+         <book><title>Die Spur des Hexers</title></book>
+         <book><title>Der Widersacher</title></book>
+         <book><title>Der Seelenfresser</title></book>
+         <book><title>Der Inquisitor</title></book>
+         <book><title>Der Hexer von Salem</title></book>
+         <book><title>Der Greif</title></book>
+         <book><title>Der Abgrund</title></book>
+         <book><title>Das Blut der Templer</title></book>
+         <book><title>Blutkrieg - Wolfsd�mmerung</title></book>
+         <book><title>Blutkrieg - Odins Raben</title></book>
+         <book><title>Blutkrieg - Im Geisterhaus</title></book>
+         <book><title>Blutkrieg - Die Schwarze Gischt</title></book>
+         <book><title>Anubis</title></book>
+         <book><title>03 Chronik der Unsterblichen - Blutkrieg</title></book>
+         <book><title>02 Chronik der Unsterblichen - Der Vampyr</title></book>
+         <book><title>01 Chronik der Unsterblichen - Am Abgrund</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hoger</lastname>
+      <firstname>Hannelore</firstname>
+      <books>
+         <book><title>Vergiss nie dass ich dich liebe</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hoffmann</lastname>
+      <firstname>Jiliane</firstname>
+      <books>
+         <book><title>Morpheus</title></book>
+         <book><title>Cupido</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hoffman</lastname>
+      <firstname>Mary</firstname>
+      <books>
+         <book><title>Stravaganza - Stadt der Masken</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hochhuth</lastname>
+      <firstname>Rolf</firstname>
+      <books>
+         <book><title>Berliner Antigone Der Stellvertreter</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Himmelmann</lastname>
+      <firstname>Hermann</firstname>
+      <books>
+         <book><title>Das China-Paradox</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hilsenrath</lastname>
+      <firstname>Edgar</firstname>
+      <books>
+         <book><title>Der Nazi  Der Friseur</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hildebrandt</lastname>
+      <firstname>Dieter</firstname>
+      <books>
+         <book><title>Vater Unser Gleich Nach Der Werbung</title></book>
+         <book><title>Ich gebe Ihnen mein Ehrenwort - Die Weltgeschichte der L�ge</title></book>
+         <book><title>Der Anbieter</title></book>
+         <book><title>Ausgebucht</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Highsmith</lastname>
+      <firstname>Patricia</firstname>
+      <books>
+         <book><title>Verwunschene Fenster</title></book>
+         <book><title>Katzengeschichten</title></book>
+         <book><title>Der talentierte Mister Ripley</title></book>
+         <book><title>Der Schneckenforscher</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Higgins Clark</lastname>
+      <firstname>Mary</firstname>
+      <books>
+         <book><title>Vergiss die Toten nicht</title></book>
+         <book><title>Und morgen in das k�hle Grab</title></book>
+         <book><title>Mein ist die Stunde der Nacht</title></book>
+         <book><title>Du entkommst mir nicht</title></book>
+         <book><title>Weil deine Augen ihn nicht sehen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Heym</lastname>
+      <firstname>Stefan</firstname>
+      <books>
+         <book><title>Schwarzenberg</title></book>
+         <book><title>Die Architekten</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Herrigel</lastname>
+      <firstname>Eugen</firstname>
+      <books>
+         <book><title>Zen in der Kunst des Bogenschie�ens</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Henry</lastname>
+      <firstname>O</firstname>
+      <books>
+         <book><title>Gabe derWweisen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Henn</lastname>
+      <firstname>Carsten</firstname>
+      <books>
+         <book><title>In Vino veritas</title></book>
+         <book><title>In dubio pro vino</title></book>
+         <book><title>Vinum Mysterium</title></book>
+         <book><title>Vino Diavolo</title></book>
+         <book><title>Henkerstropfen - Kulinarische Kurzkrimis</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hemingway</lastname>
+      <firstname>Ernest</firstname>
+      <books>
+         <book><title>Der alte Mann und das Meer</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Heinlein</lastname>
+      <firstname>Robert A</firstname>
+      <books>
+         <book><title>Revolte auf Luna</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Heinichen</lastname>
+      <firstname>Veit</firstname>
+      <books>
+         <book><title>Tod auf der Warteliste</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Heine</lastname>
+      <firstname>Ernst W</firstname>
+      <books>
+         <book><title>PAPAVERA Der Ring des Kreuzritters</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hein</lastname>
+      <firstname>Jakob</firstname>
+      <books>
+         <book><title>Vielleicht ist es sogar sch�n</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Heidenreich</lastname>
+      <firstname>Elke</firstname>
+      <books>
+         <book><title>New Yorker Geschichten</title></book>
+         <book><title>Nero Corleone</title></book>
+         <book><title>Der Welt den R�cken</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hebel</lastname>
+      <firstname>Johann Peter</firstname>
+      <books>
+         <book><title>Schatzk�stlein</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hearn</lastname>
+      <firstname>Lian</firstname>
+      <books>
+         <book><title>Der Pfad Im Schnee</title></book>
+         <book><title>Das Schwert in der Stille</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hayward</lastname>
+      <firstname>Jeremy W</firstname>
+      <books>
+         <book><title>Briefe an Vanessa</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hawking</lastname>
+      <firstname>Stephen</firstname>
+      <books>
+         <book><title>Stephen Hawking�s Universum</title></book>
+         <book><title>Einsteins Traum</title></book>
+         <book><title>Eine kurze Geschichte der Zeit</title></book>
+         <book><title>Das Universum in der Nussschale</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hauptmann</lastname>
+      <firstname>Gaby</firstname>
+      <books>
+         <book><title>Suche impotenten Mann f�rs Leben</title></book>
+         <book><title>F�nf Sterne Kerle Inclusive</title></book>
+         <book><title>Die Meute der Erben</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hatwood</lastname>
+      <firstname>Mark D</firstname>
+      <books>
+         <book><title>Marcello und der Lauf der Liebe</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Harris</lastname>
+      <firstname>Thomas</firstname>
+      <books>
+         <book><title>Roter Drache</title></book>
+         <book><title>Hannibal Rising</title></book>
+         <book><title>Hannibal</title></book>
+         <book><title>Das Schweigen der L�mmer</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Harris</lastname>
+      <firstname>Robert</firstname>
+      <books>
+         <book><title>Pompeji</title></book>
+         <book><title>Imperium</title></book>
+         <book><title>Enigma</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Harrer</lastname>
+      <firstname>Heinrich</firstname>
+      <books>
+         <book><title>Sieben Jahre in Tibet</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Handke</lastname>
+      <firstname>Peter</firstname>
+      <books>
+         <book><title>Wunschloses Ungl�ck</title></book>
+         <book><title>Die Innenwelt der Aw der Iw</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hammesfahr</lastname>
+      <firstname>Petra</firstname>
+      <books>
+         <book><title>In aller Freundschaft</title></book>
+         <book><title>Die L�ge</title></book>
+         <book><title>Das letzte Opfer</title></book>
+         <book><title>Das Geheimnis der Puppe</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Haefs</lastname>
+      <firstname>Gisbert</firstname>
+      <books>
+         <book><title>Roma - Der Erste Tod des Mark Aurel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Haddon</lastname>
+      <firstname>Mark</firstname>
+      <books>
+         <book><title>Supergute Tage oder Die sonderbare Welt des Chris</title></book>
+         <book><title>Der wunde Punkt</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hacks</lastname>
+      <firstname>Peter</firstname>
+      <books>
+         <book><title>Prinz Telemach und sein Lehrer Mentor</title></book>
+         <book><title>Gedichte</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hacke</lastname>
+      <firstname>Axel</firstname>
+      <books>
+         <book><title>Der wei�e Neger Wumbaba</title></book>
+         <book><title>Auf mich h�rt ja keiner!</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Haberlandt</lastname>
+      <firstname>Fritzi</firstname>
+      <books>
+         <book><title>Das kunstseidene M�dchen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Haas</lastname>
+      <firstname>Wolf</firstname>
+      <books>
+         <book><title>Komm, s��er Tod</title></book>
+         <book><title>Das ewige Leben</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Gutjahr</lastname>
+      <firstname>Elisabeth</firstname>
+      <books>
+         <book><title>Wittgenstein</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Groenemeyer</lastname>
+      <firstname>Dietrich</firstname>
+      <books>
+         <book><title>Der Kleine Medicus</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Grisham</lastname>
+      <firstname>John</firstname>
+      <books>
+         <book><title>Die Schuld</title></book>
+         <book><title>Die Liste</title></book>
+         <book><title>Die Firma</title></book>
+         <book><title>Die Farm</title></book>
+         <book><title>Die Bruderschaft</title></book>
+         <book><title>Die Begnadigung</title></book>
+         <book><title>Der Verrat</title></book>
+         <book><title>Der Richter</title></book>
+         <book><title>Der Regenmacher</title></book>
+         <book><title>Der Partner</title></book>
+         <book><title>Der Gefangene</title></book>
+         <book><title>Das Urteil</title></book>
+         <book><title>Das Testament</title></book>
+         <book><title>Das Fest</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Grimes</lastname>
+      <firstname>Martha</firstname>
+      <books>
+         <book><title>Inspektor Jury und die Frau im Pelzmante</title></book>
+         <book><title>Inspektor Jury stampft im Schnee</title></book>
+         <book><title>16 - Inspektor Jury auf der Treppe zum Meer</title></book>
+         <book><title>10 - Inspektor Jury treibt ein gewagtes Spiel</title></book>
+         <book><title>09 - Inspektor Jury spielt Katz und Maus</title></book>
+         <book><title>08 - Inspektor Jury besucht alte Damen</title></book>
+         <book><title>07 - Inspektor Jury steht im Regen</title></book>
+         <book><title>06 - Inspektor Jury lichtet den Nebel</title></book>
+         <book><title>05 - Inspektor Jury bricht das Eis</title></book>
+         <book><title>04 - Inspektor Jury k�sst die Muse</title></book>
+         <book><title>03 - Inspektor Jury sucht den Kennington-Smaragd</title></book>
+         <book><title>02 - Inspektor Jury spielt Domino</title></book>
+         <book><title>01 - Inspektor Jury schl�ft au�er Haus</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Griksch</lastname>
+      <firstname>Gernot</firstname>
+      <books>
+         <book><title>Kirschkernspukerbande</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Griesemer</lastname>
+      <firstname>John</firstname>
+      <books>
+         <book><title>Rausch</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Grang�</lastname>
+      <firstname>Jean-Christophe</firstname>
+      <books>
+         <book><title>Die purpurnen Fl�sse</title></book>
+         <book><title>Das Schwarze Blut</title></book>
+         <book><title>Das Herz der H�lle</title></book>
+         <book><title>Der Flug der St�rche</title></book>
+         <book><title>Der Steinerne Kreis</title></book>
+         <book><title>Das Imperium der Woelfe</title></book>
+         <book><title>Choral des Todes</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Granger</lastname>
+      <firstname>Ann</firstname>
+      <books>
+         <book><title>Wer sich in Gefahr begibt</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Graf</lastname>
+      <firstname>Roger</firstname>
+      <books>
+         <book><title>3 r�tselhafte F�lle</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Gorki</lastname>
+      <firstname>Maxim</firstname>
+      <books>
+         <book><title>Nachtasyl</title></book>
+         <book><title>Malwa</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Gordon</lastname>
+      <firstname>Noah</firstname>
+      <books>
+         <book><title>Der Schamane</title></book>
+         <book><title>Der Medicus</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Goosen</lastname>
+      <firstname>Frank</firstname>
+      <books>
+         <book><title>Mein Ich und Sein Leben</title></book>
+         <book><title>Radio Heimat</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Goldt</lastname>
+      <firstname>Max</firstname>
+      <books>
+         <book><title>Weihnachten im Bordell</title></book>
+         <book><title>F�r N�chte am offenen Fenster</title></book>
+         <book><title>Die CD mit dem Kaffeeringecover</title></book>
+         <book><title>Der Krapfen auf dem Sims</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Glaesener</lastname>
+      <firstname>Helga</firstname>
+      <books>
+         <book><title>Die Safranh�ndlerin</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Ginsberg</lastname>
+      <firstname>Ernst</firstname>
+      <books>
+         <book><title>spricht Meisterst�cke deutscher Prosa</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Gifford</lastname>
+      <firstname>Thomas</firstname>
+      <books>
+         <book><title>Assassini</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Gerritsen</lastname>
+      <firstname>Tess</firstname>
+      <books>
+         <book><title>Verrat In Paris</title></book>
+         <book><title>Tods�nde</title></book>
+         <book><title>Schwesternmord</title></book>
+         <book><title>Scheintot</title></book>
+         <book><title>Die Chirurgin</title></book>
+         <book><title>Der Meister</title></book>
+         <book><title>Blutmale</title></book>
+         <book><title>Akte Weiss - Das Geheimlabor</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Gernhardt</lastname>
+      <firstname>Robert</firstname>
+      <books>
+         <book><title>Was deine Katze wirklich denkt</title></book>
+         <book><title>Die Falle</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Gercke</lastname>
+      <firstname>Doris</firstname>
+      <books>
+         <book><title>Die Frau Vom Meer</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Gerber</lastname>
+      <firstname>Michael</firstname>
+      <books>
+         <book><title>Barry Trotter und die schamlose Parodie</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>George</lastname>
+      <firstname>Elizabeth</firstname>
+      <books>
+         <book><title>Wo kein Zeuge ist</title></book>
+         <book><title>Wer die Wahrheit sucht</title></book>
+         <book><title>Undank ist der V�ter Lohn</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Gavalda</lastname>
+      <firstname>Anna</firstname>
+      <books>
+         <book><title>Zusammen ist man weniger alllein</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Gaspard</lastname>
+      <firstname>Jan</firstname>
+      <books>
+         <book><title>Offenbarung 23</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Gadamer</lastname>
+      <firstname>Hans-Georg</firstname>
+      <books>
+         <book><title>Die Geschichte der Philosophie</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Gabl�</lastname>
+      <firstname>Rebecca</firstname>
+      <books>
+         <book><title>Reliquienblut und Gottesurteil</title></book>
+         <book><title>Die Siedler von Catan</title></book>
+         <book><title>Die H�ter der Rose</title></book>
+         <book><title>Das L�cheln der Fortuna</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Gabaldon</lastname>
+      <firstname>Diana</firstname>
+      <books>
+         <book><title>Feuer und Stein</title></book>
+         <book><title>Ferne Ufer</title></book>
+         <book><title>Ein Hauch von Schnee und Asche</title></book>
+         <book><title>Die geliehene Zeit</title></book>
+         <book><title>Der Ruf der Trommel</title></book>
+         <book><title>Das Meer der L�gen</title></book>
+         <book><title>Das flammende Kreuz</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Gaarder</lastname>
+      <firstname>Jostein</firstname>
+      <books>
+         <book><title>Sofies Welt</title></book>
+         <book><title>Das Weihnachtsgeheimnis</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Funke</lastname>
+      <firstname>Cornelia</firstname>
+      <books>
+         <book><title>Tintenherz</title></book>
+         <book><title>Tintenblut</title></book>
+         <book><title>Hinter Verzauberten Fenstern</title></book>
+         <book><title>Herr der Diebe</title></book>
+         <book><title>Greta und Eule</title></book>
+         <book><title>Gespensterj�ger in gro�er Gefahr</title></book>
+         <book><title>Gespensterj�ger in der Gruselburg</title></book>
+         <book><title>Gespensterj�ger im Feuerspuk</title></book>
+         <book><title>Gespensterj�ger auf eisiger Spur</title></book>
+         <book><title>Drachenreiter</title></book>
+         <book><title>Die wilden H�hner</title></book>
+         <book><title>Cornelia.Funke.-.Tintentod</title></book>
+         <book><title>Potilla</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Fr�hlich</lastname>
+      <firstname>Susanne</firstname>
+      <books>
+         <book><title>Moppel-Ich. Der Kampf mit den Pfunden</title></book>
+         <book><title>Frisch gepre�t</title></book>
+         <book><title>Runzel Ich</title></book>
+         <book><title>Lieblingsst�cke</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Fromm</lastname>
+      <firstname>Erich</firstname>
+      <books>
+         <book><title>Die Kunst des Liebens</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Fried</lastname>
+      <firstname>Amelie</firstname>
+      <books>
+         <book><title>Liebes Leid und Lust</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Frayn</lastname>
+      <firstname>Michael</firstname>
+      <books>
+         <book><title>Das Spionagespiel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Franz</lastname>
+      <firstname>Andreas</firstname>
+      <books>
+         <book><title>Unsichtbare Spuren</title></book>
+         <book><title>Teuflische Versprechen</title></book>
+         <book><title>Das Verlies</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Frank</lastname>
+      <firstname>Ann</firstname>
+      <books>
+         <book><title>Tagebuch Ein St�ck vom Himmel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Fossum</lastname>
+      <firstname>Karin</firstname>
+      <books>
+         <book><title>Schwarze Sekunden</title></book>
+         <book><title>Dunkler Schlaf</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Follett</lastname>
+      <firstname>Ken</firstname>
+      <books>
+         <book><title>Nacht �ber den Wassern</title></book>
+         <book><title>Mitternachtsfalken</title></book>
+         <book><title>Eisfieber</title></book>
+         <book><title>Die S�ulen der Erde</title></book>
+         <book><title>Die Ratten von Nizza</title></book>
+         <book><title>Die Pfeiler der Macht</title></book>
+         <book><title>Die Nadel</title></book>
+         <book><title>Die L�wen</title></book>
+         <book><title>Die Leopardin</title></book>
+         <book><title>Die Kinder von Eden</title></book>
+         <book><title>Die Br�cken der Freiheit</title></book>
+         <book><title>Der dritte Zwilling</title></book>
+         <book><title>Das zweite Ged�chtnis</title></book>
+         <book><title>Die Tore der Welt</title></book>
+         <book><title>Die Spur der F�chse</title></book>
+         <book><title>Dreifach</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Foerster</lastname>
+      <firstname>Heinz von</firstname>
+      <books>
+         <book><title>2 x 2 = gr�n</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Flemming</lastname>
+      <firstname>Ian</firstname>
+      <books>
+         <book><title>Stille Wasser sind t�dlich</title></book>
+         <book><title>James Bond - Alle Folgen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Flaubert</lastname>
+      <firstname>Gustave</firstname>
+      <books>
+         <book><title>Madame Bovary</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Fitzek</lastname>
+      <firstname>Sebastian</firstname>
+      <books>
+         <book><title>Die Therapie</title></book>
+         <book><title>AmokSpiel</title></book>
+         <book><title>Der Augensammler</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Finn</lastname>
+      <firstname>Thomas</firstname>
+      <books>
+         <book><title>Die Purpurinseln</title></book>
+         <book><title>Das Weltennetz</title></book>
+         <book><title>Das Auge des Morgens</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Fine</lastname>
+      <firstname>Anne</firstname>
+      <books>
+         <book><title>Tagebuch einer Killerkatze</title></book>
+         <book><title>Mrs. Doubtfire</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Fielding</lastname>
+      <firstname>Joy</firstname>
+      <books>
+         <book><title>Z�hl nicht die Stunden</title></book>
+         <book><title>Tr�ume S��, Mein M�dchen</title></book>
+         <book><title>Schlaf nicht, wenn es dunkel wird</title></book>
+         <book><title>Lauf Jane</title></book>
+         <book><title>Im Koma</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Fielding</lastname>
+      <firstname>Helen</firstname>
+      <books>
+         <book><title>Die Geheimnisse der Olivia Joules</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Evans</lastname>
+      <firstname>Nicholas</firstname>
+      <books>
+         <book><title>Der Pferdefl�sterer</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Euginedes</lastname>
+      <firstname>Jeffrey</firstname>
+      <books>
+         <book><title>Middlesex</title></book>
+         <book><title>Die Selbstmord-Schwestern</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Eschenbach</lastname>
+      <firstname>Wolfram von</firstname>
+      <books>
+         <book><title>Parzival</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Eschbach</lastname>
+      <firstname>Andreas</firstname>
+      <books>
+         <book><title>Quest</title></book>
+         <book><title>Eine Billion Dollar</title></book>
+         <book><title>Die Haarteppichknupfer</title></book>
+         <book><title>Der Nobelpreis</title></book>
+         <book><title>Der letzte seiner Art</title></book>
+         <book><title>Das Jesus Video</title></book>
+         <book><title>Ein Koenig fuer Deutschland</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Egli</lastname>
+      <firstname>Rene</firstname>
+      <books>
+         <book><title>Das Lola Prinzip</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Edwardson</lastname>
+      <firstname>Ake</firstname>
+      <books>
+         <book><title>Tanz mit dem Engel</title></book>
+         <book><title>In alle Ewigkeit</title></book>
+         <book><title>Die Schattenfrau</title></book>
+         <book><title>Das Vertauschte Gesicht</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Eco</lastname>
+      <firstname>Umberto</firstname>
+      <books>
+         <book><title>Die geheimnisvolle Flamme der K�nigin Loana</title></book>
+         <book><title>Der Name der Rose</title></book>
+         <book><title>Das foucaultsche Pendel</title></book>
+         <book><title>Baudolino</title></book>
+         <book><title>The name of the rose</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>D�rrie</lastname>
+      <firstname>Doris</firstname>
+      <books>
+         <book><title>Was machen wir jetzt</title></book>
+         <book><title>Das blaue Kleid</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>D�niken</lastname>
+      <firstname>Erich Von</firstname>
+      <books>
+         <book><title>Geheimnisse versunkener Welten</title></book>
+         <book><title>Die G�tter aus dem All</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Duve</lastname>
+      <firstname>Karen</firstname>
+      <books>
+         <book><title>Regenroman</title></book>
+         <book><title>Die entf�hrte Prinzessin</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Durbridge</lastname>
+      <firstname>Francis</firstname>
+      <books>
+         <book><title>1967 Paul Temple und der Fall Alex</title></book>
+         <book><title>1966 Paul Temple und der Fall Genf</title></book>
+         <book><title>1962 Paul Temple und der Fall Margo</title></book>
+         <book><title>1961 Paul Temple und der Fall Conrad</title></book>
+         <book><title>1959 Paul Temple und der Fall Spencer</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Duras</lastname>
+      <firstname>Marguerite</firstname>
+      <books>
+         <book><title>Der Liebhaber</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Dumas</lastname>
+      <firstname>Alexandre</firstname>
+      <books>
+         <book><title>Kapit�n Pamphile</title></book>
+         <book><title>Die drei Musketiere</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Droste</lastname>
+      <firstname>Wiglaf Voltaire</firstname>
+      <books>
+         <book><title>Candide</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Droste</lastname>
+      <firstname>Anette von</firstname>
+      <books>
+         <book><title>Turme</title></book>
+         <book><title>Junge Liebe</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Dostojewski</lastname>
+      <firstname>Fjodor M</firstname>
+      <books>
+         <book><title>Schuld und S�hne</title></book>
+         <book><title>Die Internatsschule</title></book>
+         <book><title>Der Spieler</title></book>
+         <book><title>Der Doppelg�nger</title></book>
+         <book><title>Das Krokodil</title></book>
+         <book><title>Bobok</title></book>
+         <book><title>Aufzeichnungen aus dem Kellerloch</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Doblin</lastname>
+      <firstname>Alfred</firstname>
+      <books>
+         <book><title>Berlin Alexanderplatz</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Divakaruni</lastname>
+      <firstname>Chitra Banerjee</firstname>
+      <books>
+         <book><title>Anand und der magische Spiegel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Dietrich</lastname>
+      <firstname>Marlene</firstname>
+      <books>
+         <book><title>Time for Love</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Diderot</lastname>
+      <firstname>Denis</firstname>
+      <books>
+         <book><title>Rameaus Neffe</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Dickens</lastname>
+      <firstname>Charles</firstname>
+      <books>
+         <book><title>Die Pickwickier</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Dick</lastname>
+      <firstname>Philip K</firstname>
+      <books>
+         <book><title>Zeit aus den Fugen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Deutsch</lastname>
+      <firstname>Ernst</firstname>
+      <books>
+         <book><title>spricht Granach_Lessing_Schiller</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Defoe</lastname>
+      <firstname>Daniel</firstname>
+      <books>
+         <book><title>Robinson Crusoe</title></book>
+         <book><title>Die Pest zu London</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Dante</lastname>
+      <firstname>Alighieri</firstname>
+      <books>
+         <book><title>Die G�ttliche Kom�die</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Dannen</lastname>
+      <firstname>Funny van</firstname>
+      <books>
+         <book><title>Zur�ck im  Paradies-Abook</title></book>
+         <book><title>Uruguay</title></book>
+         <book><title>Neues von Gott</title></book>
+         <book><title>Nebelmaschine</title></book>
+         <book><title>Melody Star</title></book>
+         <book><title>Info 3</title></book>
+         <book><title>Herzschei�e</title></book>
+         <book><title>Groooveman</title></book>
+         <book><title>Club Songs</title></book>
+         <book><title>Basics</title></book>
+         <book><title>Authentic Trip</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Dahl</lastname>
+      <firstname>Arne</firstname>
+      <books>
+         <book><title>Das dritte Auge</title></book>
+         <book><title>B�ses Blut</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Cross</lastname>
+      <firstname>Donna W</firstname>
+      <books>
+         <book><title>Die P�pstin</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Crichton</lastname>
+      <firstname>Michael</firstname>
+      <books>
+         <book><title>Welt in Angst</title></book>
+         <book><title>Beute (Prey)</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Crescenzo</lastname>
+      <firstname>Luciano de</firstname>
+      <books>
+         <book><title>Das Urteil des Paris</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Cottrell Boyce</lastname>
+      <firstname>Frank</firstname>
+      <books>
+         <book><title>Millionen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Cotton</lastname>
+      <firstname>Jerry</firstname>
+      <books>
+         <book><title>Route 66</title></book>
+         <book><title>In Aspen ist die H�lle los</title></book>
+         <book><title>02 - Mir blieben nur noch Stunden</title></book>
+         <book><title>04 - Blutnacht auf dem Airport</title></book>
+         <book><title>In Aspen ist die Hoelle los</title></book>
+         <book><title>Route 66, Strasse zur H�lle</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Cornwell</lastname>
+      <firstname>Patricia</firstname>
+      <books>
+         <book><title>Wer war Jack the Ripper</title></book>
+         <book><title>Gefahr</title></book>
+         <book><title>Die Hornisse</title></book>
+         <book><title>10 - Blinder Passagier</title></book>
+         <book><title>09 - Brandherd</title></book>
+         <book><title>03 - Das f�nfte Paar (Herzbube)</title></book>
+         <book><title>11 - Das letzte Revier</title></book>
+         <book><title>08 - Der Keim des Verderbens</title></book>
+         <book><title>12 - Die D�monen ruhen nicht</title></book>
+         <book><title>06 - Die Tote ohne Namen</title></book>
+         <book><title>01 - Ein Fall F�r Kay Scarpetta</title></book>
+         <book><title>13 - Staub</title></book>
+         <book><title>05 - Body Farm (Das geheime ABC der toten)</title></book>
+         <book><title>14 - Defekt</title></book>
+         <book><title>15 - Totenbuch</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Conroy</lastname>
+      <firstname>Pat</firstname>
+      <books>
+         <book><title>Die Herren der Insel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Conrad</lastname>
+      <firstname>Joseph</firstname>
+      <books>
+         <book><title>Herz der Finsternis</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Colfer</lastname>
+      <firstname>Eoin</firstname>
+      <books>
+         <book><title>04 Artemis Fowl - Die Rache</title></book>
+         <book><title>03 Artemis Fowl - Der Geheimcode</title></book>
+         <book><title>02 Artemis Fowl - Die Verschw�rung</title></book>
+         <book><title>01 Artemis Fowl</title></book>
+         <book><title>06  Artemis Fowl Das Zeitparadox</title></book>
+         <book><title>Meg Finn und die Liste der vier Wuensche</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Coetzee</lastname>
+      <firstname>J. M</firstname>
+      <books>
+         <book><title>Zeitlupe</title></book>
+         <book><title>Schande</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Coelho</lastname>
+      <firstname>Paulo</firstname>
+      <books>
+         <book><title>Veronika beschlie�t zu sterben</title></book>
+         <book><title>Handbuch des Kriegers des Lichts</title></book>
+         <book><title>Elf Minuten</title></book>
+         <book><title>Der Zahir</title></book>
+         <book><title>Der f�nfte Berg</title></book>
+         <book><title>Der D�mon und Fr�ulein Prym</title></book>
+         <book><title>Der Alchemist</title></book>
+         <book><title>Bekenntnisse eines Suchenden</title></book>
+         <book><title>Auf dem Jakobsweg</title></book>
+         <book><title>Am Ufer des Rio Piedra sass ich und weinte</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Clancy</lastname>
+      <firstname>Tom</firstname>
+      <books>
+         <book><title>Red Rabbit</title></book>
+         <book><title>Operation Rainbow</title></book>
+         <book><title>Im Zeichen des Drachen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Chors</lastname>
+      <firstname>Eberhard</firstname>
+      <books>
+         <book><title>Hallo Eberhard</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Chesterton</lastname>
+      <firstname>Gilbert K</firstname>
+      <books>
+         <book><title>Pater Brown - Das Geheimnis im Garten</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Chapman</lastname>
+      <firstname>Gary</firstname>
+      <books>
+         <book><title>Die f�nf Sprachen der Liebe</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Chandler</lastname>
+      <firstname>Raymond</firstname>
+      <books>
+         <book><title>Sch�sse bei Cyrano</title></book>
+         <book><title>Nevada Gas</title></book>
+         <book><title>Erpresser schie�en nicht</title></book>
+         <book><title>Der gro�e Schlaf</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Chandler</lastname>
+      <firstname>McGrew</firstname>
+      <books>
+         <book><title>Eiskalt</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Cervantes</lastname>
+      <firstname>Miguel de</firstname>
+      <books>
+         <book><title>Don Quijote de La Mancha</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Carver</lastname>
+      <firstname>Jeffrey A</firstname>
+      <books>
+         <book><title>Am Ende der Ewigkeit</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Carr�</lastname>
+      <firstname>John le</firstname>
+      <books>
+         <book><title>Der Schneider von Panama</title></book>
+         <book><title>Der ewige G�rtner</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Capote</lastname>
+      <firstname>Truman</firstname>
+      <books>
+         <book><title>Kaltbl�tig</title></book>
+         <book><title>Fr�hst�ck bei Tiffany</title></book>
+         <book><title>Die Grasharfe</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Cantzen</lastname>
+      <firstname>Rolf</firstname>
+      <books>
+         <book><title>Auf zu den Waffen-Das Drama des Ersten Weltkrieges</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Canetti</lastname>
+      <firstname>Elias</firstname>
+      <books>
+         <book><title>Die Stimmen von Marrakesch</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Camus</lastname>
+      <firstname>Albert</firstname>
+      <books>
+         <book><title>Die Pest</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Camilleri</lastname>
+      <firstname>Andrea</firstname>
+      <books>
+         <book><title>Die Sizilianische Oper</title></book>
+         <book><title>Der Hund aus Terracotta</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Calvino</lastname>
+      <firstname>Italo</firstname>
+      <books>
+         <book><title>Ein General In Der Bilbliothek</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Caldwell</lastname>
+      <firstname>Ian und Dustin Thomason</firstname>
+      <books>
+         <book><title>Das letzte Geheimnis</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>B�rger</lastname>
+      <firstname>Gottfried</firstname>
+      <books>
+         <book><title>M�nchhausen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Br�ckner</lastname>
+      <firstname>Christine</firstname>
+      <books>
+         <book><title>Jauche und Levkojen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>B�chner</lastname>
+      <firstname>Georg</firstname>
+      <books>
+         <book><title>Dantons Tod</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Buttgereit</lastname>
+      <firstname>J�rg</firstname>
+      <books>
+         <book><title>Sexy Sushi</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bushnell</lastname>
+      <firstname>Candance</firstname>
+      <books>
+         <book><title>Sex and the City</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Buschheuer</lastname>
+      <firstname>Else</firstname>
+      <books>
+         <book><title>RUF! MICH! AN!</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Burnett</lastname>
+      <firstname>F.H</firstname>
+      <books>
+         <book><title>Der kleine Lord</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Burger</lastname>
+      <firstname>Wolfgang</firstname>
+      <books>
+         <book><title>Mordsverkehr</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bulgakow</lastname>
+      <firstname>M</firstname>
+      <books>
+         <book><title>Der Meister und Margarita</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bukowski</lastname>
+      <firstname>Charles</firstname>
+      <books>
+         <book><title>Nicht mit sechzig, Honey</title></book>
+         <book><title>Ausgetr�umt</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Br�ckers</lastname>
+      <firstname>Mathias</firstname>
+      <books>
+         <book><title>WTC Verschw�rung  WDR</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Brown</lastname>
+      <firstname>Rita Mae</firstname>
+      <books>
+         <book><title>1 Schade das du nicht tot bist</title></book>
+         <book><title>2 Ruhe in Fetzen</title></book>
+         <book><title>3 Rache auf leisen Pfoten</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Brown</lastname>
+      <firstname>Dan</firstname>
+      <books>
+         <book><title>Sakrileg</title></book>
+         <book><title>Meteor</title></book>
+         <book><title>Illuminati</title></book>
+         <book><title>Diabolus</title></book>
+         <book><title>Das verlorene Symbol</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bronte</lastname>
+      <firstname>Emily</firstname>
+      <books>
+         <book><title>Sturmh�he Wuthering Heights</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bringsvaerd</lastname>
+      <firstname>Tor Age</firstname>
+      <books>
+         <book><title>Die Wilden G�tter</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+         <book><title>Glamorama</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Brennan</lastname>
+      <firstname>Herbie</firstname>
+      <books>
+         <book><title>Elfenland</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Brehm</lastname>
+      <firstname>Alfred</firstname>
+      <books>
+         <book><title>Die Katze</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Brandauer</lastname>
+      <firstname>Klaus-Maria</firstname>
+      <books>
+         <book><title>liest Mozart</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bradbury</lastname>
+      <firstname>Ray</firstname>
+      <books>
+         <book><title>Fahrenheit 451</title></book>
+         <book><title>Die Mars Chroniken</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bote</lastname>
+      <firstname>Hermann</firstname>
+      <books>
+         <book><title>Eulenspiegel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Blunt</lastname>
+      <firstname>Giles</firstname>
+      <books>
+         <book><title>Gefrorene Seelen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bittrich</lastname>
+      <firstname>Dietmar</firstname>
+      <books>
+         <book><title>Die Weihnachtsgeschichte der Gummib�rchen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Binchy</lastname>
+      <firstname>Maeve</firstname>
+      <books>
+         <book><title>Der gr�ne See</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bierce</lastname>
+      <firstname>Ambrose</firstname>
+      <books>
+         <book><title>Der Hausierer</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bernhard</lastname>
+      <firstname>Thomas</firstname>
+      <books>
+         <book><title>Wittgensteins Neffe</title></book>
+         <book><title>Holzf�llen</title></book>
+         <book><title>Erz�hlungen</title></book>
+         <book><title>Ereignisse</title></book>
+         <book><title>Der Wille zum Gl�ck</title></book>
+         <book><title>Das Kalkwerk</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Berndorf</lastname>
+      <firstname>Jaques</firstname>
+      <books>
+         <book><title>Eifel-Krimis(5) - Eifel Feuer</title></book>
+         <book><title>Eifel-Krimis(8) - Eifel-Sturm</title></book>
+         <book><title>Eifel-Krimis(2) - Eifel-Gold</title></book>
+         <book><title>Eifel-Krimis(1) - Eifel-Blues</title></book>
+         <book><title>Eifel-Krimis(3) - Eifel-Filz</title></book>
+         <book><title>Eifel-Krimis(4) - Eifel Schnee</title></book>
+         <book><title>Eifel-Krimis(6) - Eifel-Rallye</title></book>
+         <book><title>Eifel-Krimis(10) - Eifel-Wasser</title></book>
+         <book><title>Eifel-Krimis(11) - Eifel-Liebe</title></book>
+         <book><title>Eifel-Krimis(12) - Eifel Traeume</title></book>
+         <book><title>Eifel-Krimis(13) - Eifel-Kreuz</title></book>
+         <book><title>Eifel Muell</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Berg</lastname>
+      <firstname>Sibylle</firstname>
+      <books>
+         <book><title>Ein Paar Leute Suchen Das Gl�ck Und Lachen Sich Tot</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bennett</lastname>
+      <firstname>Alan</firstname>
+      <books>
+         <book><title>Cos� fan tutte</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Beckett</lastname>
+      <firstname>Simon</firstname>
+      <books>
+         <book><title>Die Chemie Des Todes</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Becker</lastname>
+      <firstname>Maria</firstname>
+      <books>
+         <book><title>spricht Goethe Kleist</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Baum</lastname>
+      <firstname>L Frank</firstname>
+      <books>
+         <book><title>Der Zauberer von Oz</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bauer</lastname>
+      <firstname>Josef</firstname>
+      <books>
+         <book><title>Soweit die F��e tragen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Baricco</lastname>
+      <firstname>Alessandro</firstname>
+      <books>
+         <book><title>Novecento -  Die Legende vom Ozeanpianisten</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bargen</lastname>
+      <firstname>Ascan von</firstname>
+      <books>
+         <book><title>Annwyn - Die Tore ser Anderwelt</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bank</lastname>
+      <firstname>Melissa</firstname>
+      <books>
+         <book><title>Wie Frauen fischen und jagen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bambaren</lastname>
+      <firstname>Sergio</firstname>
+      <books>
+         <book><title>Ein Strand f�r meine Tr�ume</title></book>
+         <book><title>Der tr�umende Delphin</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Baldacci</lastname>
+      <firstname>David</firstname>
+      <books>
+         <book><title>Mit jedem Schlag der Stunde</title></book>
+         <book><title>Im Bruchteil der Sekunde</title></book>
+         <book><title>Die Wahrheit</title></book>
+         <book><title>Die Versuchung</title></book>
+         <book><title>Die Verschw�rung</title></book>
+         <book><title>Der Pr�sident</title></book>
+         <book><title>Der Abgrund</title></book>
+         <book><title>Das Versprechen</title></book>
+         <book><title>Das Geschenk</title></book>
+         <book><title>Im Takt des Todes</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Baigent</lastname>
+      <firstname>Michael</firstname>
+      <books>
+         <book><title>Verschlussache Jesus - Die Wahrheit �ber das fr�he Christentum</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bachmann</lastname>
+      <firstname>Ingeborg</firstname>
+      <books>
+         <book><title>Probleme Probleme</title></book>
+         <book><title>Ein Gesch�ft mit Tr�umen</title></book>
+         <book><title>Alles</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bach</lastname>
+      <firstname>Richard</firstname>
+      <books>
+         <book><title>Die M�we Jonathan</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Babendererde</lastname>
+      <firstname>Antje</firstname>
+      <books>
+         <book><title>Der Gesang der Orcas</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Ayesta</lastname>
+      <firstname>Julian</firstname>
+      <books>
+         <book><title>Helena oder das Meer des Sommers</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Auster</lastname>
+      <firstname>Paul</firstname>
+      <books>
+         <book><title>Nacht des Orakels</title></book>
+         <book><title>Das Buch der Illusionen</title></book>
+         <book><title>Auggie Wrens Weihnachtsgeschichte</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Austen</lastname>
+      <firstname>Jane</firstname>
+      <books>
+         <book><title>Sinn und Sinnlichkeit</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Asimov</lastname>
+      <firstname>Isaac</firstname>
+      <books>
+         <book><title>Ich der Robot</title></book>
+         <book><title>Falsch Korrigiert</title></book>
+         <book><title>Die Verbotene Erfindung</title></book>
+         <book><title>Der Witzbold</title></book>
+         <book><title>Das Chronoskop</title></book>
+         <book><title>Das Attentat</title></book>
+         <book><title>Auf der Suche nach der Erde</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Arendt</lastname>
+      <firstname>Hannah</firstname>
+      <books>
+         <book><title>Von Wahrheit und Politik</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Ardagh</lastname>
+      <firstname>Philip</firstname>
+      <books>
+         <book><title>Eddie Dickens 1 Schlimmes Ende</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Anderson</lastname>
+      <firstname>Kevin J</firstname>
+      <books>
+         <book><title>Akte X - Ruinen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Altvater</lastname>
+      <firstname>Elmar</firstname>
+      <books>
+         <book><title>Das Ende des Kapitalismus wie wir ihn kennen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Alsen</lastname>
+      <firstname>Wulf Gabriele</firstname>
+      <books>
+         <book><title>Das F�nfte Evangelium</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Allende</lastname>
+      <firstname>Isabel</firstname>
+      <books>
+         <book><title>Zorro</title></book>
+         <book><title>Paula</title></book>
+         <book><title>Im Reich des Goldenen Drachen</title></book>
+         <book><title>Im Bann Der Masken</title></book>
+         <book><title>Die Stadt der wilden G�tter</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Akunin</lastname>
+      <firstname>Boris</firstname>
+      <books>
+         <book><title>Russisches Poker</title></book>
+         <book><title>Mord auf der Leviathan</title></book>
+         <book><title>Fandorin</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Aken</lastname>
+      <firstname>Jan van</firstname>
+      <books>
+         <book><title>Das Gest�ndnis des M�nchs</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Aitmatov</lastname>
+      <firstname>Tschingis</firstname>
+      <books>
+         <book><title>Du meine Pappel im roten Kopftuch</title></book>
+         <book><title>Der erste Lehrer</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Ahern</lastname>
+      <firstname>Cecelia</firstname>
+      <books>
+         <book><title>Vermiss mein nicht</title></book>
+         <book><title>PS ich liebe dich</title></book>
+         <book><title>F�r immer vielleicht</title></book>
+         <book><title>Ich schreib dir morgen wieder</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Adorf</lastname>
+      <firstname>Mario</firstname>
+      <books>
+         <book><title>Der Fenstersturz</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Adams</lastname>
+      <firstname>Douglas</firstname>
+      <books>
+         <book><title>Raumschiff Titanic</title></book>
+         <book><title>Per Anhalter durch die Galaxis</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Achilles</lastname>
+      <firstname>Achim</firstname>
+      <books>
+         <book><title>Verse (Mein Leben als L�ufer)</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Eichendorff</lastname>
+      <firstname>Joseph von Literatur</firstname>
+      <books>
+         <book><title>Weihnachten</title></book>
+         <book><title>Gl�ck</title></book>
+         <book><title>Es ist schon sp�t</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Eschenbach</lastname>
+      <firstname>Marie von Ebner</firstname>
+      <books>
+         <book><title>S�nderin</title></book>
+         <book><title>Krambambuli</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+         <book><title>Titel_1-11</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Fontane</lastname>
+      <firstname>Theodor</firstname>
+      <books>
+         <book><title>Wolfhund</title></book>
+         <book><title>Unwiederbringlich</title></book>
+         <book><title>Schwalbe</title></book>
+         <book><title>Rabefuchs</title></book>
+         <book><title>Quersack</title></book>
+         <book><title>Mittag</title></book>
+         <book><title>Kalbsziege</title></book>
+         <book><title>Irrungen, Wirrungen</title></book>
+         <book><title>Grilleameise</title></book>
+         <book><title>Froschstier</title></book>
+         <book><title>Frau Jenny Treibel</title></book>
+         <book><title>Esel</title></book>
+         <book><title>Effi Briest</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Frisch</lastname>
+      <firstname>Max</firstname>
+      <books>
+         <book><title>Mein Name sei Gantenbein</title></book>
+         <book><title>Homo Faber</title></book>
+         <book><title>Herr Biedermann und die Brandstifter- iX</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Goethe</lastname>
+      <firstname>Johann Wolfgang von</firstname>
+      <books>
+         <book><title>Zauberlehrling</title></book>
+         <book><title>Wandrers Nachtlied</title></book>
+         <book><title>Prometheus</title></book>
+         <book><title>Osterspaziergang</title></book>
+         <book><title>Korinth</title></book>
+         <book><title>Goethe-Reineke Fuchs Superstar</title></book>
+         <book><title>Goethe f�r Einsteiger Biographie</title></book>
+         <book><title>Gleiches</title></book>
+         <book><title>Gefunden</title></book>
+         <book><title>Fischer</title></book>
+         <book><title>Faust II</title></book>
+         <book><title>Faust I</title></book>
+         <book><title>Erlkoenig</title></book>
+         <book><title>Die Stimmen, die Rufenden</title></book>
+         <book><title>Die Leiden des jungen Werther</title></book>
+         <book><title>Der Zauberlehrling</title></book>
+         <book><title>Der Trag�die zweiter Teil</title></book>
+         <book><title>Der Totentanz</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Grass</lastname>
+      <firstname>G�nther</firstname>
+      <books>
+         <book><title>Im Krebsgang</title></book>
+         <book><title>Die Blechtrommel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Heine</lastname>
+      <firstname>Heinrich</firstname>
+      <books>
+         <book><title>Wie langsam kriechet sie dahin</title></book>
+         <book><title>Weber</title></book>
+         <book><title>Sie sassen und tranken am teetisch</title></book>
+         <book><title>Nachtgedanken</title></book>
+         <book><title>Lreley</title></book>
+         <book><title>Ich will meine Seele tauchen_2</title></book>
+         <book><title>Die Nordsee</title></book>
+         <book><title>Deutschland kaput 1-4</title></book>
+         <book><title>Deutschland ein Winterm�rchen</title></book>
+         <book><title>Das Fr�ulein stand am Meere</title></book>
+         <book><title>Botschaft</title></book>
+         <book><title>Beschw�rung</title></book>
+         <book><title>Asra</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hesse</lastname>
+      <firstname>Hermann</firstname>
+      <books>
+         <book><title>�ber das Gl�ck</title></book>
+         <book><title>Unterm Rad</title></book>
+         <book><title>Traumgeschenk</title></book>
+         <book><title>Tractat vom Steppenwolf</title></book>
+         <book><title>Siddhartha - Eine indische Dichtung</title></book>
+         <book><title>Das Glasperlenspiel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Janitschek</lastname>
+      <firstname>Maria</firstname>
+      <books>
+         <book><title>Sch�nheit</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kafka</lastname>
+      <firstname>Franz</firstname>
+      <books>
+         <book><title>Traum</title></book>
+         <book><title>In Der Strafkolonie</title></book>
+         <book><title>Hungerk�nstler</title></book>
+         <book><title>Gesetz</title></book>
+         <book><title>Die Verwandlung</title></book>
+         <book><title>Der Prozess</title></book>
+         <book><title>Der Affe als Mensch</title></book>
+         <book><title>Das Schloss</title></book>
+         <book><title>Brudermord</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kant</lastname>
+      <firstname>Immanuel</firstname>
+      <books>
+         <book><title>Kritik der reinen Vernunft</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kishon</lastname>
+      <firstname>Ephraim</firstname>
+      <books>
+         <book><title>Kishon f�r Steuerzahler</title></book>
+         <book><title>Essen ist meine Lieblingsspeise</title></book>
+         <book><title>Ein Parkplatz f�r Ameisen-Farmer</title></book>
+         <book><title>Der seekranke Walfisch</title></book>
+         <book><title>Der Gl�ckspilz</title></book>
+         <book><title>Der Blaumilchkanal</title></book>
+         <book><title>Das Geheimnis der Melone</title></book>
+         <book><title>Beste Autofahrergeschichten</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kleist</lastname>
+      <firstname>Heinrich von</firstname>
+      <books>
+         <book><title>Michael Kohlhaas</title></book>
+         <book><title>Marionetten</title></book>
+         <book><title>Geistererscheinung</title></book>
+         <book><title>Bettelweib</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Lenz</lastname>
+      <firstname>Siegfried</firstname>
+      <books>
+         <book><title>Deutschstunde</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Lessing</lastname>
+      <firstname>Gotthold Ephraim</firstname>
+      <books>
+         <book><title>Nathan der Weise</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Mann</lastname>
+      <firstname>Thomas</firstname>
+      <books>
+         <book><title>Zauberberg</title></book>
+         <book><title>Tonio Kr�ger</title></book>
+         <book><title>K�nigliche Hoheit</title></book>
+         <book><title>Joseph und seine Br�der</title></book>
+         <book><title>Gladius Dei + Das Wunderkind</title></book>
+         <book><title>Die Buddenbrooks</title></book>
+         <book><title>Die Betrogene</title></book>
+         <book><title>Der Wille zum Gl�ck - Gert Westphal</title></book>
+         <book><title>Der Tod in Venedig (2)</title></book>
+         <book><title>Der Tod in Venedig</title></book>
+         <book><title>Der Erw�hlte</title></book>
+         <book><title>Das Eisenbahnungl�ck</title></book>
+         <book><title>Bekenntnisse des Hochstaplers Felix Krull</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Nietzsche</lastname>
+      <firstname>Friedrich</firstname>
+      <books>
+         <book><title>Wissen</title></book>
+         <book><title>Oh Mensch gib acht</title></book>
+         <book><title>Ecce homo (wie man wird, was man ist)</title></book>
+         <book><title>Also sprach Zarathustra(Sprecher Peter Wapnewski</title></book>
+         <book><title>Also sprach Zarathustra</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Baudelaire</lastname>
+      <firstname>Charles</firstname>
+      <books>
+         <book><title>Leser</title></book>
+         <book><title>Katze</title></book>
+         <book><title>Blanchefille</title></book>
+         <book><title>Bettelm�dchen</title></book>
+         <book><title>Allegorie</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Beckett</lastname>
+      <firstname>Samuel</firstname>
+      <books>
+         <book><title>Warten auf Godot</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Boccaccio</lastname>
+      <firstname>Giovanni</firstname>
+      <books>
+         <book><title>Decameron</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>B�ll</lastname>
+      <firstname>Heinrich</firstname>
+      <books>
+         <book><title>Irisches Tagebuch</title></book>
+         <book><title>Heinrich B�ll - Heinrich B�ll liest</title></book>
+         <book><title>Heinrich B�ll - Ansichten eines Clowns</title></book>
+         <book><title>Die Verlorene Ehre Der Katharina Blum</title></book>
+         <book><title>Als der Krieg ausbrach</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Brecht</lastname>
+      <firstname>Bertholt</firstname>
+      <books>
+         <book><title>Mutter Courage und ihre Kinder</title></book>
+         <book><title>Ein Leben in Gedichten</title></book>
+         <book><title>Die Tage der Kommune</title></book>
+         <book><title>Das Leben des Galilei</title></book>
+         <book><title>Baal</title></book>
+         <book><title>An die Nachgeborenen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Claudius</lastname>
+      <firstname>Matthias</firstname>
+      <books>
+         <book><title>Claudius Mond</title></book>
+         <book><title>Claudius Boysen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>D�rrenmatt</lastname>
+      <firstname>Friedrich</firstname>
+      <books>
+         <book><title>Herkules und der Stall des Augias</title></book>
+         <book><title>Grieche sucht Griechin</title></book>
+         <book><title>Es geschah am hellichten Tag</title></book>
+         <book><title>Die Physiker</title></book>
+         <book><title>Die Panne</title></book>
+         <book><title>Der Tunnel</title></book>
+         <book><title>Der Tod des Sokrates</title></book>
+         <book><title>Der Richter und sein Henker</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Doyle</lastname>
+      <firstname>Arthur C</firstname>
+      <books>
+         <book><title>Sherlock Holmes</title></book>
+         <book><title>Musgrave</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+         <book><title>Wo die schwarzen Fl��e flie�en</title></book>
+         <book><title>04 - Das D�monenhaus</title></book>
+         <book><title>03 - Der Turm des Grauens</title></book>
+         <book><title>02 - Als der Meister starb</title></book>
+         <book><title>01 - Im Verlies der blutigen Tr�ume</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Gussek</lastname>
+      <firstname>Rainer</firstname>
+      <books>
+         <book><title>Des Mittelalters - Der Fluch Des Barden</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hitchcock</lastname>
+      <firstname>Alfred</firstname>
+      <books>
+         <book><title>Die 3 Fragezeichen 001-128</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>King</lastname>
+      <firstname>Stephen</firstname>
+      <books>
+         <book><title>Winter</title></book>
+         <book><title>Stephen king�s Pulse</title></book>
+         <book><title>Sommer</title></book>
+         <book><title>Nachtschicht</title></book>
+         <book><title>Herbst</title></book>
+         <book><title>Friedhof des Grauen</title></book>
+         <book><title>Friedhof der Kuscheltiere</title></book>
+         <book><title>Der dunkle Turm</title></book>
+         <book><title>Das M�dchen</title></book>
+         <book><title>Blut und Rauch</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kommissar</lastname>
+      <firstname>X</firstname>
+      <books>
+         <book><title>Der Panter aus der Bronx</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Pinternagel</lastname>
+      <firstname>Stefan</firstname>
+      <books>
+         <book><title>Fragmente</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Simenon</lastname>
+      <firstname>Georges</firstname>
+      <books>
+         <book><title>Maigret und der verstorbene Monsieur Gallet</title></book>
+         <book><title>Maigret Im Haus Des Richters</title></book>
+         <book><title>Maigret - Die Besten F�lle</title></book>
+         <book><title>Hier Irrt Maigret Tanzb�r</title></book>
+         <book><title>Die Aussage des Ministranten</title></book>
+         <book><title>Der M�rder</title></book>
+         <book><title>Der Kahn mit den beiden Erh�ngten</title></book>
+         <book><title>Chesterton G KK - Pater Brown-Das Blaue Kreuz</title></book>
+         <book><title>Best of Maigret</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Sinclair</lastname>
+      <firstname>John</firstname>
+      <books>
+         <book><title>Krimi des Mittelalters</title></book>
+         <book><title>Herrin der Dunkelwelt (1)</title></book>
+         <book><title>Die Sch�ne aus dem Totenreich</title></book>
+         <book><title>Die R�ckkehr des schwarzen Tods</title></book>
+         <book><title>Der Pf�hler</title></book>
+         <book><title>Der Anfang (Sonderedition)</title></book>
+         <book><title>Der Anfang</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Wallace</lastname>
+      <firstname>Edgar</firstname>
+      <books>
+         <book><title>Neues vom Hexer</title></book>
+         <book><title>Edgar Wallace - Karussell H�rspiele</title></book>
+         <book><title>Die T�r mit den sieben Schl�ssern</title></book>
+         <book><title>Die Toten Augen von London</title></book>
+         <book><title>Die drei Gerechten</title></book>
+         <book><title>Die Bande des Schreckens</title></book>
+         <book><title>Der Zinker</title></book>
+         <book><title>Der Unheimliche M�nch</title></book>
+         <book><title>Der Schwarze Abt</title></book>
+         <book><title>Der rote Kreis</title></book>
+         <book><title>Der Joker</title></book>
+         <book><title>Der Hexer</title></book>
+         <book><title>Der Gr�ne Bogensch�tze</title></book>
+         <book><title>Der Frosch mit der Maske 2</title></book>
+         <book><title>Der Frosch mit der Maske</title></book>
+         <book><title>Der Engel des Schreckens</title></book>
+         <book><title>Das Verr�tertor</title></book>
+         <book><title>Das Indische Tuch</title></book>
+         <book><title>Das Gesicht Im Dunkeln</title></book>
+         <book><title>Das Geheimnis der gelben Narzissen</title></book>
+         <book><title>Das Gasthaus an der Themse</title></book>
+         <book><title>Bei den drei Eichen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Christie</lastname>
+      <firstname>Agatha</firstname>
+      <books>
+         <book><title>Zeugin der Anklage</title></book>
+         <book><title>Zehn kleine Negerlein</title></book>
+         <book><title>Villa Nachtigall</title></book>
+         <book><title>T�tlicher Irrtum</title></book>
+         <book><title>Tod in den Wolken</title></book>
+         <book><title>Poirot riecht den Braten</title></book>
+         <book><title>Mord im Spiegel</title></book>
+         <book><title>Mord im Orientexpress</title></book>
+         <book><title>Mord auf dem Golfplatz</title></book>
+         <book><title>Miss Marple</title></book>
+         <book><title>Legale Tricks</title></book>
+         <book><title>Lauter reizende alte Damen</title></book>
+         <book><title>Kurz vor Mitternacht</title></book>
+         <book><title>Hercule Poirots Weihnachten</title></book>
+         <book><title>Hercule Poirots gr��te Tr�mpfe Teil 3</title></book>
+         <book><title>Hercule Poirots gr��te Tr�mpfe Teil 2</title></book>
+         <book><title>Hercule Poirots gr��te Tr�mpfe Teil 1</title></book>
+         <book><title>Halloween Party</title></book>
+         <book><title>Greenshaws Monstrum</title></book>
+         <book><title>Fata Morgana</title></book>
+         <book><title>Eine Weihnachtstrag�die</title></book>
+         <book><title>Ein unerwarteter Gast</title></book>
+         <book><title>Ein seltsamer Scherz</title></book>
+         <book><title>Ein Schritt ins Leere</title></book>
+         <book><title>Ein Mord wird angek�ndigt</title></book>
+         <book><title>Dreizehn bei Tisch</title></book>
+         <book><title>Die Uhr war Zeuge</title></book>
+         <book><title>Die Stimme aus dem Grab</title></book>
+         <book><title>Die Stecknadel</title></book>
+         <book><title>Die spanische Truhe</title></book>
+         <book><title>Die Schattenhand</title></book>
+         <book><title>Die Memoiren des Grafen</title></book>
+         <book><title>Die Hausmeisterin</title></book>
+         <book><title>Der Wachsblumenstrauss</title></book>
+         <book><title>Der Tod auf dem Nil</title></book>
+         <book><title>Der nemeische L�we</title></book>
+         <book><title>Der Fall von St. Mary M�d</title></book>
+         <book><title>Der blaue Express</title></book>
+         <book><title>Der Ball spielende Hund</title></book>
+         <book><title>Das Todeskraut</title></book>
+         <book><title>Das Haus an der D�ne</title></book>
+         <book><title>Das Geheimnis der zweiten Gurke</title></book>
+         <book><title>Das Fahle Pferd</title></book>
+         <book><title>Das Dame-Opfer</title></book>
+         <book><title>Das B�se unter der Sonne</title></book>
+         <book><title>Da waren es nur noch neun</title></book>
+         <book><title>Blaus�ure</title></book>
+         <book><title>Bertrams Hotel</title></book>
+         <book><title>Auch P�nktlichkeit kann t�ten</title></book>
+         <book><title>Alibi</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Wilson</lastname>
+      <firstname>F. Paul Graham</firstname>
+      <books>
+         <book><title>Necrophobia 2</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Schwanitz</lastname>
+      <firstname>Dietrich</firstname>
+      <books>
+         <book><title>Musik</title></book>
+         <book><title>Literatur</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Shakespeare</lastname>
+      <firstname>Nicholas</firstname>
+      <books>
+         <book><title>Sommernachtstraum</title></book>
+         <book><title>In Tasmanien</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Storm</lastname>
+      <firstname>Theodor</firstname>
+      <books>
+         <book><title>storm</title></book>
+         <book><title>Die Regentrude</title></book>
+         <book><title>Der Schimmelreiter</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+         <book><title>Faust vs. Mephisto</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Orwell</lastname>
+      <firstname>George</firstname>
+      <books>
+         <book><title>George Orwell 1984</title></book>
+         <book><title>Die Farm der Tiere</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Schiller</lastname>
+      <firstname>Friedrich</firstname>
+      <books>
+         <book><title>Verbrecher</title></book>
+         <book><title>Taucher</title></book>
+         <book><title>Ring</title></book>
+         <book><title>Kabale und Liebe</title></book>
+         <book><title>Ibykus</title></book>
+         <book><title>Handschuh</title></book>
+         <book><title>Glocke</title></book>
+         <book><title>Femde</title></book>
+         <book><title>Don Karlos</title></book>
+         <book><title>Die R�uber</title></book>
+         <book><title>B�rgschaft</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Schubart</lastname>
+      <firstname>Franz von</firstname>
+      <books>
+      </books>
+   </author>
+   <author>
+      <lastname>Barron</lastname>
+      <firstname>T.A</firstname>
+      <books>
+         <book><title>Merlin und die Fl�gel der Freiheit</title></book>
+         <book><title>Der Zauber von Avalon, sieben sterne und die dunkle prophezeiung</title></book>
+         <book><title>03 Merlin und die Feuerproben</title></book>
+         <book><title>02 Merlin und die sieben Schritte zur Weisheit</title></book>
+         <book><title>01 Merlin - Wie alles begann</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+         <book><title>CD 07</title></book>
+         <book><title>CD 06</title></book>
+         <book><title>CD 05</title></book>
+         <book><title>CD 04</title></book>
+         <book><title>CD 03</title></book>
+         <book><title>CD 02</title></book>
+         <book><title>CD 01</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Heitz</lastname>
+      <firstname>Markus</firstname>
+      <books>
+         <book><title>Die M�chte Des Feuers (Drachen)</title></book>
+         <book><title>die_rache_der_zwerge</title></book>
+         <book><title>Die Zwerge</title></book>
+         <book><title>Das Schicksal der Zwerge</title></book>
+         <book><title>Der Krieg der Zwerge</title></book>
+         <book><title>Die Rache der Zwerge</title></book>
+         <book><title>Ritus</title></book>
+         <book><title>Sanctum</title></book>
+         <book><title>Schatten �ber Ulldart - Die dunkle Zeit</title></book>
+         <book><title>Judassohn</title></book>
+         <book><title>Kinder des Judas</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hennen</lastname>
+      <firstname>Bernhard</firstname>
+      <books>
+         <book><title>Die Elfen</title></book>
+         <book><title>Der Wahrtr�umer</title></book>
+         <book><title>Elfenwinter</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Meyer</lastname>
+      <firstname>Kai</firstname>
+      <books>
+         <book><title>Sieben Siegel Folge 01</title></book>
+         <book><title>Hex</title></book>
+         <book><title>Frostfeuer</title></book>
+         <book><title>Die Wellenl�ufer</title></book>
+         <book><title>Die Wasserweber</title></book>
+         <book><title>Die Vatikan Verschw�rung</title></book>
+         <book><title>Die Muschelmagier</title></book>
+         <book><title>Die Flie�ende K�nigin</title></book>
+         <book><title>Das Wolkenvolk</title></book>
+         <book><title>Das Steinerne Licht</title></book>
+         <book><title>Das Gl�serne Wort</title></book>
+         <book><title>Das Buch von Eden</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Pratchett</lastname>
+      <firstname>Terry</firstname>
+      <books>
+         <book><title>W�hler</title></book>
+         <book><title>Wachen! Wachen!</title></book>
+         <book><title>Trucker</title></book>
+         <book><title>Sch�ne Scheine</title></book>
+         <book><title>Pyramiden</title></book>
+         <book><title>Nomen-Trilogie Teil 3 - Fl�gel</title></book>
+         <book><title>Mummenschanz</title></book>
+         <book><title>Mort</title></book>
+         <book><title>Maskerade - Mummenschanz</title></book>
+         <book><title>Lords und Ladies</title></book>
+         <book><title>Klonk!</title></book>
+         <book><title>Kleine freie M�nner</title></book>
+         <book><title>Gevatter Tod</title></book>
+         <book><title>Ein Hut voller Sterne</title></book>
+         <book><title>Die volle Wahrheit</title></book>
+         <book><title>Die Nachtw�chter</title></book>
+         <book><title>Der Zeitdieb</title></book>
+         <book><title>Der Winterschmied</title></book>
+         <book><title>Der f�nfte Elefant</title></book>
+         <book><title>Das Licht der Phantasie</title></book>
+         <book><title>Ab die Post</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Rowling</lastname>
+      <firstname>Joanne K</firstname>
+      <books>
+         <book><title>06 Harry Potter und der Halbblutprinz</title></book>
+         <book><title>05 Harry Potter und der Orden des Ph�nix</title></book>
+         <book><title>04 Harry Potter und der Feuerkelch</title></book>
+         <book><title>03 Harry Potter und der Gefangene von Askaban</title></book>
+         <book><title>02 Harry Potter und die Kammer des Schreckens</title></book>
+         <book><title>01 Harry Potter und der Stein der Weisen</title></book>
+         <book><title>07 Harry Potter and the Deathly Hallows - Audiobook</title></book>
+         <book><title>07 Harry Potter und die Heiligt�mer des Todes</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Tolkien</lastname>
+      <firstname>J.R.R</firstname>
+      <books>
+         <book><title>Roverandom</title></book>
+         <book><title>Nachrichten aus Mittelerde</title></book>
+         <book><title>Die Gef�hrten</title></book>
+         <book><title>Die Briefe Vom Weihnachtsmann</title></book>
+         <book><title>Der kleine Hobbit</title></book>
+         <book><title>Der Herr der Ringe 3 - Die R�ckkehr des K�nigs</title></book>
+         <book><title>Der Herr der Ringe 2 - Die zwei T�rme</title></book>
+         <book><title>Der Herr der Ringe 1 - Die Gef�hrten</title></book>
+         <book><title>Der Herr der Ringe - CD 10</title></book>
+         <book><title>Der Herr der Ringe - CD 09</title></book>
+         <book><title>Der Herr der Ringe - CD 08</title></book>
+         <book><title>Der Herr der Ringe - CD 07</title></book>
+         <book><title>Der Herr der Ringe - CD 06</title></book>
+         <book><title>Der Herr der Ringe - CD 05</title></book>
+         <book><title>Der Herr der Ringe - CD 04</title></book>
+         <book><title>Der Herr der Ringe - CD 03</title></book>
+         <book><title>Der Herr der Ringe - CD 02</title></book>
+         <book><title>Der Herr der Ringe - CD 01</title></book>
+         <book><title>Der Elbenstern - Der Schmied von Gro�holzingen</title></book>
+         <book><title>Der Elbenstern</title></book>
+         <book><title>Das Silmarillion</title></book>
+         <book><title>J. R. R. Tolkien - Der Hobbit</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Williams</lastname>
+      <firstname>Tad</firstname>
+      <books>
+         <book><title>Der Drachenbeinthron</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Boyle</lastname>
+      <firstname>T.C</firstname>
+      <books>
+         <book><title>Dr. Sex 1-4</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Safier</lastname>
+      <firstname>David</firstname>
+      <books>
+         <book><title>Mieses Karma</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Precht</lastname>
+      <firstname>Richard David</firstname>
+      <books>
+         <book><title>Wer bin ich und wenn ja wie viele</title></book>
+         <book><title>Richard David Precht - Liebe - Ein unordentliches Gef_hl</title></book>
+         <book><title>Liebe - Ein unordentliches Gefuehl</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Arjouni</lastname>
+      <firstname>Jakob</firstname>
+      <books>
+         <book><title>Kismet</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Schirrmacher</lastname>
+      <firstname>Frank</firstname>
+      <books>
+         <book><title>Das Methusalem Komplott</title></book>
+         <book><title>Payback</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Andr�</lastname>
+      <firstname>Martina</firstname>
+      <books>
+         <book><title>Die Gegenp�pstin</title></book>
+         <book><title>die Teufelshure</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bellisario</lastname>
+      <firstname>Donald P</firstname>
+      <books>
+         <book><title>Airwolf 1-20</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Cauwelaert</lastname>
+      <firstname>Didier van</firstname>
+      <books>
+         <book><title>Das Evangelium nach Jimmy</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Clement</lastname>
+      <firstname>Catherine</firstname>
+      <books>
+         <book><title>Theos Reise</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Delafosse</lastname>
+      <firstname>J�r�me</firstname>
+      <books>
+         <book><title>Im Blutkreis</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>D�bell</lastname>
+      <firstname>Richard</firstname>
+      <books>
+         <book><title>Die Teufelsbibel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Forsyth</lastname>
+      <firstname>Frederick</firstname>
+      <books>
+         <book><title>Der Schakal</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Gaiman</lastname>
+      <firstname>Neil</firstname>
+      <books>
+         <book><title>Anansi Boys</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Glattauer</lastname>
+      <firstname>Daniel</firstname>
+      <books>
+         <book><title>Gut gegen Nordwind</title></book>
+         <book><title>Daniel Glattauer - Alle sieben Wellen</title></book>
+         <book><title>Daniel Glattauer - Darum</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Goldmann</lastname>
+      <firstname>William</firstname>
+      <books>
+         <book><title>Die Brautprinzessin</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Grote</lastname>
+      <firstname>Ulrike</firstname>
+      <books>
+         <book><title>Bis(S) zum Morgengrauen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Guterson</lastname>
+      <firstname>David</firstname>
+      <books>
+         <book><title>Schnee,der auf Zedern f�llt</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Herbst</lastname>
+      <firstname>Christph Maria</firstname>
+      <books>
+         <book><title>Nicht Mein TAG</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hoffmann</lastname>
+      <firstname>Corine</firstname>
+      <books>
+         <book><title>Die wei�e Massai</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hossein</lastname>
+      <firstname>Khaled</firstname>
+      <books>
+         <book><title>Drachenl�ufer</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Husmann</lastname>
+      <firstname>Ralf</firstname>
+      <books>
+         <book><title>Nicht Mein TAG</title></book>
+         <book><title>Vorsicht vor Leuten</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Jinks</lastname>
+      <firstname>Catherine</firstname>
+      <books>
+         <book><title>Teuflisches Genie</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kaffke</lastname>
+      <firstname>Silvia</firstname>
+      <books>
+         <book><title>Totenstill</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+         <book><title>Seegrund</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kurkow</lastname>
+      <firstname>Andrej</firstname>
+      <books>
+         <book><title>Ein Freund des Verblichenen</title></book>
+         <book><title>Picknick auf dem Eis</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Lessmann</lastname>
+      <firstname>Sandra</firstname>
+      <books>
+         <book><title>Die S�ndentochter</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Maraini</lastname>
+      <firstname>Dacia</firstname>
+      <books>
+         <book><title>Stimmen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Marklund</lastname>
+      <firstname>Liza</firstname>
+      <books>
+         <book><title>Paradies</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>McBride</lastname>
+      <firstname>James</firstname>
+      <books>
+         <book><title>Die Farbe von Wasser</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname></lastname>
+      <firstname></firstname>
+      <books>
+         <book><title>Sag Jetzt Nichts</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Meyer</lastname>
+      <firstname>Stephenie</firstname>
+      <books>
+         <book><title>Bis zum Morgengrauen</title></book>
+         <book><title>Biss zum Abendrot</title></book>
+         <book><title>Seelen</title></book>
+         <book><title>Biss zur Mittagsstunde</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Nothomb</lastname>
+      <firstname>Am�lie</firstname>
+      <books>
+         <book><title>Mit Staunen und Zittern</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Pessl</lastname>
+      <firstname>Marisha</firstname>
+      <books>
+         <book><title>Die allt�gliche Physik des Ungl�cks</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Plath</lastname>
+      <firstname>Sylvia</firstname>
+      <books>
+         <book><title>Die Glasglocke</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Rademacher</lastname>
+      <firstname>Cay</firstname>
+      <books>
+         <book><title>Geheimsache Estonia</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Reilly</lastname>
+      <firstname>Matthew</firstname>
+      <books>
+         <book><title>Operation Elite</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Simmel</lastname>
+      <firstname>Johannes Mario</firstname>
+      <books>
+         <book><title>Es muss nicht immer Kaviar sein</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Simmons</lastname>
+      <firstname>Dan</firstname>
+      <books>
+         <book><title>Ilium</title></book>
+         <book><title>Drood</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Stratmann</lastname>
+      <firstname>Cordula</firstname>
+      <books>
+         <book><title>Monis rosarote Fr�hlingstr�ume</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Thiemeyer</lastname>
+      <firstname>Thomas</firstname>
+      <books>
+         <book><title>Magma</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Thirlwell</lastname>
+      <firstname>Adam</firstname>
+      <books>
+         <book><title>Strategie</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Gier</lastname>
+      <firstname>Kerstin</firstname>
+      <books>
+         <book><title>Brennordner.fpbf</title></book>
+         <book><title>Die Muetter Mafia</title></book>
+         <book><title>Gegensaetze ziehen sich aus</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Grogan</lastname>
+      <firstname>John</firstname>
+      <books>
+         <book><title>Marley und ich</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Cleeves</lastname>
+      <firstname>Ann</firstname>
+      <books>
+         <book><title>Die Nacht der Raben</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Franklin</lastname>
+      <firstname>Ariana</firstname>
+      <books>
+         <book><title>Die Totenleserin</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Cornwell</lastname>
+      <firstname>Bernhard</firstname>
+      <books>
+         <book><title>Schwertgesang</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kuzneski</lastname>
+      <firstname>Chris</firstname>
+      <books>
+         <book><title>Im Zeichen des Kreuzes</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Jones</lastname>
+      <firstname>Ferwin</firstname>
+      <books>
+         <book><title>Elfennacht 2 - Die verlorene Koenigin</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Laurie</lastname>
+      <firstname>Hugh</firstname>
+      <books>
+         <book><title>Hugh Laurie - Bockmist</title></book>
+         <book><title>Bockmist</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Ward</lastname>
+      <firstname>J.R</firstname>
+      <books>
+         <book><title>J. R. Ward - Black Dagger 02 - Blutopfer</title></book>
+         <book><title>J.R. Ward - Black Dagger 3 - Ewige Liebe</title></book>
+         <book><title>06-Dunkles Erwachen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>W.</lastname>
+      <firstname>James</firstname>
+      <books>
+         <book><title>Ausgesetzt</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Lindqvist</lastname>
+      <firstname>john Ajvide</firstname>
+      <books>
+         <book><title>Menschenhafen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Pepper</lastname>
+      <firstname>Kate</firstname>
+      <books>
+         <book><title>Nur 15 Sekunden</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Weisgerber</lastname>
+      <firstname>Lauren</firstname>
+      <books>
+         <book><title>Ein Ring von Tiffany</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bray</lastname>
+      <firstname>Libba</firstname>
+      <books>
+         <book><title>Der geheime Zirkel - Kartiks Schicksal</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Marr</lastname>
+      <firstname>Meslissa</firstname>
+      <books>
+         <book><title>Melissa Marr - Gegen die Finsternis</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Winterhoff</lastname>
+      <firstname>Michael</firstname>
+      <books>
+         <book><title>Michael Winterhoff - Warum unsere Kinder Tyrannen werden</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Boes</lastname>
+      <firstname>Mirja</firstname>
+      <books>
+         <book><title>Mirja Boes - Boese Tagebuecher - Unaussprechlich peinlich</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Preussler</lastname>
+      <firstname>Ottfried</firstname>
+      <books>
+         <book><title>Krabat</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Pausch</lastname>
+      <firstname>Randy</firstname>
+      <books>
+         <book><title>Laste Lecture</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Davidson</lastname>
+      <firstname>Mary Janice</firstname>
+      <books>
+         <book><title>Untot lebt sich auch ganz gut</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Adrian</lastname>
+      <firstname>Lara</firstname>
+      <books>
+         <book><title>Gebieter in der Dunkelheit</title></book>
+         <book><title>Geliebte der Nacht</title></book>
+         <book><title>Geschoepfe der Finsternis</title></book>
+         <book><title>Gefangene des Blutes</title></book>
+         <book><title>Gezeichnet</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Bergdoll</lastname>
+      <firstname>Nathalie</firstname>
+      <books>
+      </books>
+   </author>
+   <author>
+      <lastname>Ahrens</lastname>
+      <firstname>Juergen</firstname>
+      <books>
+         <book><title>Mitosis</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Arnd</lastname>
+      <firstname>Ralf</firstname>
+      <books>
+         <book><title>Leih mir dein Leben</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Arnold</lastname>
+      <firstname>Frank</firstname>
+      <books>
+         <book><title>Managment; Von den Besten lernen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Baumhaus</lastname>
+      <firstname>Baumhaus</firstname>
+      <books>
+         <book><title>01 - Im Tal der Dinosaurier</title></book>
+         <book><title>02 - Der geheimnisvolle Ritter</title></book>
+         <book><title>03 - Das Geheimnis der Mumie</title></book>
+         <book><title>04 - Der Schatz der Piraten</title></book>
+         <book><title>05 - Im Land der Samurai</title></book>
+         <book><title>06 - Gefahr am Amazonas</title></book>
+         <book><title>07 - Im Reich der Mammuts</title></book>
+         <book><title>08 - Abenteuer auf dem Mond</title></book>
+         <book><title>09 - Der Ruf der Delfine</title></book>
+         <book><title>10 - Das Raetsel der Geisterst</title></book>
+         <book><title>11 - Im Tal der Loewen</title></book>
+         <book><title>12 - Auf den Spuren der Eisbae</title></book>
+         <book><title>13 - Im Schatten des Vulkans</title></book>
+         <book><title>14 - Im Land der Drachen</title></book>
+         <book><title>15 - Insel Der Wikinger</title></book>
+         <book><title>16 - Auf der Faehrte der India</title></book>
+         <book><title>17 - Im Reich des Tigers</title></book>
+         <book><title>18 - Rettung in der Wildnis</title></book>
+         <book><title>19 - Abenteuer in Olympia</title></book>
+         <book><title>20 - Im Auge des Wirbelsturms</title></book>
+         <book><title>21 - Gefahr in der Feuerstadt</title></book>
+         <book><title>22 - Verschollen auf hoher See</title></book>
+         <book><title>23 - Das Geheimnis Des Alten T</title></book>
+         <book><title>24 - Den Gorillas auf der Spur</title></book>
+         <book><title>25 - Im Land Der Ersten Siedle</title></book>
+         <book><title>26 - Abenteuer In Der S�dsee</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>B�lent</lastname>
+      <firstname>Ceylan</firstname>
+      <books>
+         <book><title>D�ner for one</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Canavan</lastname>
+      <firstname>Trudi</firstname>
+      <books>
+         <book><title>Magie</title></book>
+         <book><title>Sonea - Die H�terin</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Cast</lastname>
+      <firstname>Kerstin</firstname>
+      <books>
+         <book><title>Erwaehlt</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Coben</lastname>
+      <firstname>Harlan</firstname>
+      <books>
+         <book><title>Kein Sterbenswort Teil 1</title></book>
+         <book><title>Kein Sterbenswort Teil 2</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Connolly</lastname>
+      <firstname>John</firstname>
+      <books>
+         <book><title>In tiefer finsternis</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Cooper</lastname>
+      <firstname>John S</firstname>
+      <books>
+         <book><title>Zero</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Cornin</lastname>
+      <firstname>Justin</firstname>
+      <books>
+         <book><title>Der uebergang</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Drvenkar</lastname>
+      <firstname>Zoran</firstname>
+      <books>
+         <book><title>Sorry</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Feth</lastname>
+      <firstname>Monika</firstname>
+      <books>
+         <book><title>Jette 2 - Der Maedchenmaler</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Fitzgerald</lastname>
+      <firstname>Helen</firstname>
+      <books>
+         <book><title>Furchtbar lieb</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Frank</lastname>
+      <firstname>Jacquelyn</firstname>
+      <books>
+         <book><title>Schattenwandler 3</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Franzinger</lastname>
+      <firstname>Bernd</firstname>
+      <books>
+         <book><title>Pilzsaison</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Green</lastname>
+      <firstname>Simon</firstname>
+      <books>
+         <book><title>Geschichten aus der Nightside</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hefner</lastname>
+      <firstname>Ulrich</firstname>
+      <books>
+         <book><title>Die Wiege des Windes</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hegewisch</lastname>
+      <firstname>Helge</firstname>
+      <books>
+         <book><title>Die Totenw�scherin</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Heitmann</lastname>
+      <firstname>Tatjana</firstname>
+      <books>
+         <book><title>Morgenrot</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hill</lastname>
+      <firstname>Susan</firstname>
+      <books>
+         <book><title>Der Kampf um Gullywith</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Hirschhausen</lastname>
+      <firstname>Eckart</firstname>
+      <books>
+         <book><title>Die Leber waechst mit ihren Aufgaben</title></book>
+         <book><title>Gluecksbringer</title></book>
+         <book><title>Sprechstunde</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Jones</lastname>
+      <firstname>Frewin</firstname>
+      <books>
+         <book><title>Elfennacht 2 - Die verlorene Koenigin</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Juretzka</lastname>
+      <firstname>Joerg</firstname>
+      <books>
+         <book><title>Alles total groovy hier</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kastner</lastname>
+      <firstname>Joerg</firstname>
+      <books>
+         <book><title>Das wahre Kreuz</title></book>
+         <book><title>Engelspapst</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Kinney</lastname>
+      <firstname>Jeff</firstname>
+      <books>
+         <book><title>Gregs Tagebuch - Von Idioten umzingelt!</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Knox</lastname>
+      <firstname>Tom</firstname>
+      <books>
+         <book><title>Genesis Secret</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Loriot</lastname>
+      <firstname>Loriot</firstname>
+      <books>
+         <book><title>Peter und der Wolf</title></book>
+         <book><title>Klassiker</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Lippe von der</lastname>
+      <firstname>J�rgen</firstname>
+      <books>
+         <book><title>Man kann nicht immer Sieger</title></book>
+         <book><title>So bin ich</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Loehr</lastname>
+      <firstname>Robert</firstname>
+      <books>
+         <book><title>Der Schachautomat</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Luetz</lastname>
+      <firstname>Manfred</firstname>
+      <books>
+         <book><title>Irre wir behandeln die Falschen, unser Problem sind die Normalen</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>MacAlister</lastname>
+      <firstname>Katie</firstname>
+      <books>
+         <book><title>K�sst du noch oder beisst du schon</title></book>
+         <book><title>Vampire lieben gefaehrlich DarkOnes7</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Mahoni</lastname>
+      <firstname>Toni</firstname>
+      <books>
+         <book><title>Gebratene Stoereche</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Marr</lastname>
+      <firstname>Mellissa</firstname>
+      <books>
+         <book><title>Gegen die Finsternis</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Marzi</lastname>
+      <firstname>Christoph</firstname>
+      <books>
+         <book><title>Somina</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Maurer</lastname>
+      <firstname>Joerg</firstname>
+      <books>
+         <book><title>Hochsaison</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Mittermeier</lastname>
+      <firstname>Michael</firstname>
+      <books>
+         <book><title>Back To Life</title></book>
+         <book><title>Paranoid for (langes St�ck)</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Morton</lastname>
+      <firstname>Kate</firstname>
+      <books>
+         <book><title>Der verborgene Garten</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Noel</lastname>
+      <firstname>Alyson</firstname>
+      <books>
+         <book><title>Das Schattenland</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Oehrlund</lastname>
+      <firstname>Dag</firstname>
+      <books>
+         <book><title>mord.net - Teil 1</title></book>
+         <book><title>mord.net - Teil 2</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Roberts</lastname>
+      <firstname>Maddox</firstname>
+      <books>
+         <book><title>Der Musentempel</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Rose</lastname>
+      <firstname>Karen</firstname>
+      <books>
+         <book><title>Todesschrei</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Rossi</lastname>
+      <firstname>Sonia</firstname>
+      <books>
+         <book><title>Fucking Berlin</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Simth</lastname>
+      <firstname>Lisa J</firstname>
+      <books>
+         <book><title>Bei Daemmerung</title></book>
+         <book><title>Im Zwielicht</title></book>
+         <book><title>In der Dunkelheit</title></book>
+         <book><title>In der Schattenwelt</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Smith</lastname>
+      <firstname>Kathryn</firstname>
+      <books>
+         <book><title>Ewige Versuchung</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Star Treck</lastname>
+      <firstname>Star Treck</firstname>
+      <books>
+         <book><title>Vanguard I Der Vorbote</title></book>
+         <book><title>Vanguard II Ruf den Donner</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Strobel</lastname>
+      <firstname>Arno</firstname>
+      <books>
+         <book><title>Der Trakt</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Thiesler</lastname>
+      <firstname>Sabine</firstname>
+      <books>
+         <book><title>Menschenraeuber</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Tietz</lastname>
+      <firstname>Micahel</firstname>
+      <books>
+         <book><title>Ratte</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Walker</lastname>
+      <firstname>Martin</firstname>
+      <books>
+         <book><title>Bruno, Chef de police</title></book>
+         <book><title>Grand Cru</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Warren</lastname>
+      <firstname>Buffet</firstname>
+      <books>
+         <book><title>Das Leben ist wie ein Schneeball</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Weisberger</lastname>
+      <firstname>Lauren</firstname>
+      <books>
+         <book><title>Ein Ring von Tiffany</title></book>
+      </books>
+   </author>
+   <author>
+      <lastname>Winterhoff</lastname>
+      <firstname>Micahel</firstname>
+      <books>
+         <book><title>Warum unsere Kinder Tyrannen werden</title></book>
+      </books>
+   </author>
+ </list>
