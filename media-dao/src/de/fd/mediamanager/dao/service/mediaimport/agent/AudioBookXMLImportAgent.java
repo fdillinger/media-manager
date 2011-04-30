@@ -63,7 +63,7 @@ public class AudioBookXMLImportAgent {
 				return false;
 			}
 			audioBookBuffer = new StringBuffer();
-			audioBookBuffer.append("<?xml version='1.0'?>" + "\n");
+			audioBookBuffer.append("<?xml version='1.0'?> encoding='ISO-8859-1'" + "\n");
 			audioBookBuffer.append("<catalog>" + "\n");
 			for (int i = 0; i < authors.length; i++) {
 				if (authors[i].isDirectory()) {

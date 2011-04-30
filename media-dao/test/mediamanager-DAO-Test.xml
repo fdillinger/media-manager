@@ -46,8 +46,8 @@
   
    <bean id="audioBookXMLImportAgentInfoParliament"
 		class="de.fd.mediamanager.dao.service.mediaimport.agent.AudioBookXMLImportAgentInfo">
-        <property name="rootDirectory" value="G:\media\audiobook" />
-        <property name="xmlFileDestionation" value="G:\media\audiobook\" />
+        <property name="rootDirectory" value="G:\\MEDIEN\\00 AUDIO BOOK\\01 Romane\\" />
+        <property name="xmlFileDestionation" value="C:\\temp\\" />
         <property name="xmlFileName" value="audioBook.xml" />
    </bean>   
    
