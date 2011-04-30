@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Application context definition for Webcontracts webapp
+-->
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:jee="http://www.springframework.org/schema/jee"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="
+		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-2.5.xsd
+		http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee-2.5.xsd
+		http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-2.5.xsd">
+
+	<context:property-placeholder
+		location="classpath*:selenium.properties, classpath*:selenium-local.properties" />
+
+	<bean id="seleniumServerConfig" class="ec.ep.bdms.contracts.integration.selenium.SeleniumServerConfig">
+		<property name="urlBase" 			 value="${BASE_URL}" />
+		<property name="webAppUrl" 			 value="${WEB_APP_URL}" />
+		<property name="webAppContextName"   value="${WEB_APP_CONTEXT}" />
+		<property name="seleniumServerHost"  value="${SELENIUM_SERVER_HOST}" />
+		<property name="seleniumServerPort"  value="${SELENIUM_SERVER_PORT}" />
+		<property name="contractInitiatorLogin"  value="${CONTRACT_INITIATOR_LOGIN}" />
+		<property name="exAnteLogin"  value="${EX_ANTE_LOGIN}" />
+		<property name="contractArchivistLogin"  value="${CONTRACT_ARCHIVIST_LOGIN}" />
+		<property name="awardInitiatorLogin"  value="${AWARD_INITIATOR_LOGIN}" />
+		<property name="group"  value="${GROUP}" />
+		<property name="firefoxBrowser"  value="${FIREFOX_BROWSER}" />
+		<property name="iexplorerBrowser"  value="${IEXPLORER_BROWSER}" />
+		<property name="chromeBrowser"  value="${CHROME_BROWSER}" />
+		<property name="currentTestBrowser"  value="${CURRENT_TEST_BROWSER}" />
+		<property name="financialYear"  value="${FINANCIAL_YEAR}" />
+	</bean>
+</beans>
