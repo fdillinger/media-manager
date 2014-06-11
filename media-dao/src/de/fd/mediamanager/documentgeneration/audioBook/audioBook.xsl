@@ -134,11 +134,12 @@
                 <w:tblLook w:val="01E0"/>
             </w:tblPr>
             <w:tblGrid>
-                <w:gridCol w:w="2000"/>
-                <w:gridCol w:w="3000"/>
+                <w:gridCol w:w="6000"/>
+                <w:gridCol w:w="4000"/>
+                <!--
+				<w:gridCol w:w="1200"/>
                 <w:gridCol w:w="1200"/>
-                <w:gridCol w:w="1200"/>
-                <w:gridCol w:w="1200"/>
+                <w:gridCol w:w="1200"/> -->
             </w:tblGrid>
             <!-- ******************************************** HEADER ***************************************** -->
 	        <w:tr wsp:rsidR="00762090" wsp:rsidTr="00762090">
@@ -147,21 +148,23 @@
 	            </w:trPr>
 	            <w:tc>
 	                <w:tcPr>
-	                   <w:tcW w:w="2000" w:type="dxa"/>
-	                </w:tcPr>
-	                <w:p wsp:rsidR="00762090" wsp:rsidRDefault="00762090" wsp:rsidP="00762090">
-	                  <w:r><w:t>Autor</w:t></w:r>
-	                </w:p>
-	            </w:tc>
-	            <w:tc>
-	                <w:tcPr>
-	                    <w:tcW w:w="3000" w:type="dxa"/>
+	                    <w:tcW w:w="6000" w:type="dxa"/>
 	                </w:tcPr>
 	                <w:p wsp:rsidR="00762090" wsp:rsidRDefault="00762090" wsp:rsidP="00762090">
 	                   <w:r><w:t>Buchtitel</w:t></w:r>
 	                </w:p>
 	            </w:tc>
-	            <w:tc>
+				<w:tc>
+	                <w:tcPr>
+	                   <w:tcW w:w="4000" w:type="dxa"/>
+	                </w:tcPr>
+	                <w:p wsp:rsidR="00762090" wsp:rsidRDefault="00762090" wsp:rsidP="00762090">
+	                  <w:r><w:t>Autor</w:t></w:r>
+	                </w:p>
+	            </w:tc>
+				
+	             <!--
+				<w:tc>
 	                <w:tcPr>
 	                    <w:tcW w:w="1200" w:type="dxa"/>
 	                </w:tcPr>
@@ -181,8 +184,9 @@
 	                 <w:r><w:t>Bewertung</w:t></w:r>
 	               </w:p>
 	            </w:tc>
+				-->
 	        </w:tr>
-	        
+	         
 	        <!-- ******************************************** Inhalt ***************************************** -->
 	        <xsl:for-each select="list/author">
 		        <xsl:variable name="lastname" select="lastname"/>
@@ -190,8 +194,14 @@
 		        <xsl:for-each select="books/book">
 		        <w:tr wsp:rsidR="00762090" wsp:rsidTr="00762090">
 		           <w:trPr><w:cnfStyle w:val="010000000000"/></w:trPr>
-		           <w:tc>
-		              <w:tcPr><w:tcW w:w="2000" w:type="dxa"/></w:tcPr>
+		            <w:tc>
+		               <w:tcPr><w:tcW w:w="6000" w:type="dxa"/></w:tcPr>
+		               <w:p wsp:rsidR="00762090" wsp:rsidRDefault="00762090" wsp:rsidP="00762090">
+		                  <w:r><w:t><xsl:value-of select="title"/></w:t></w:r>
+		               </w:p>
+		            </w:tc>
+				   <w:tc>
+		              <w:tcPr><w:tcW w:w="4000" w:type="dxa"/></w:tcPr>
 		              <w:p wsp:rsidR="00762090" wsp:rsidRDefault="00762090" wsp:rsidP="00762090">
 		                 <w:r><w:t>
 		                      <xsl:value-of select="$lastname"/>
@@ -200,13 +210,9 @@
 		                 </w:t></w:r>
 		              </w:p>
 		           </w:tc>
-		           <w:tc>
-		               <w:tcPr><w:tcW w:w="3000" w:type="dxa"/></w:tcPr>
-		               <w:p wsp:rsidR="00762090" wsp:rsidRDefault="00762090" wsp:rsidP="00762090">
-		                  <w:r><w:t><xsl:value-of select="title"/></w:t></w:r>
-		               </w:p>
-		            </w:tc>
-		            <w:tc>
+		          
+		            <!--
+					<w:tc>
 		               <w:tcPr><w:tcW w:w="1200" w:type="dxa"/></w:tcPr>
 		               <w:p wsp:rsidR="00762090" wsp:rsidRDefault="00762090" wsp:rsidP="00762090">
 		                  <w:r><w:t></w:t></w:r>
@@ -224,6 +230,7 @@
 		                   <w:r><w:t></w:t></w:r>
 		                 </w:p>
 		               </w:tc>
+					 -->
 		         </w:tr>
 		        </xsl:for-each>
 		        

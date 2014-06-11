@@ -40,11 +40,7 @@
 	  });     
    });
      
-     
-     
-     
-     
-     
+    
      
      
      $( function () {
@@ -145,15 +141,15 @@
               <div class="headPanel">
                 <form:form modelAttribute="audioBookSearchCriteria" cssClass="">
                     <div class="firstItem">
-                      <label>Höerbuch - Name (1076) Demo</label>
+                      <label>Name</label>
                       <form:input id="name" path="audioBookName" size="30" maxlength="30"/>
                     </div>
                     <div class="Item">
-                      <label>Autor (499)</label>
+                      <label>Autor</label>
                       <form:input id="autor" path="writer" size="30" maxlength="30"/>
                     </div>
                     <div class="Item">
-                      <label>Sprecher / Lektor (11)</label>
+                      <label>Lektor</label>
                       <form:input id="reader" path="reader" size="30" maxlength="30"/>
                     </div>
                      <div class="Item">

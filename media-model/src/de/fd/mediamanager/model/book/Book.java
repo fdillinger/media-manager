@@ -1,8 +1,9 @@
 package de.fd.mediamanager.model.book;
 
-import java.util.ArrayList;
 import java.util.Collection;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 import de.fd.mediamanager.api.model.IAuthor;
 import de.fd.mediamanager.api.model.book.IBook;
@@ -11,7 +12,7 @@ import de.fd.mediamanager.model.Medium;
 public class Book extends Medium implements IBook{
    
 	// relation book -> Author
-	private List<IAuthor> authors = new ArrayList<IAuthor>();
+	private Set<IAuthor> authors = new HashSet<IAuthor>();
 	
 	private String ISBN = "";
  
@@ -30,9 +31,7 @@ public class Book extends Medium implements IBook{
 	    this.ISBN = ISBN;	
 	}
 	
-    public Collection<IAuthor> getAuthors(){
-    	return authors;
-    }
+   
 	
 	public void addAuthor(IAuthor author){
 	   if(author != null){
@@ -40,10 +39,7 @@ public class Book extends Medium implements IBook{
 	   }
 	}
 	
-	// class method
-	public void setAuthor(List<IAuthor> author) {
-		this.authors = author;
-	}
+	
 
 	public String getName() {
 		return name;
@@ -51,5 +47,16 @@ public class Book extends Medium implements IBook{
 
 	public void setName(String name) {
 		this.name = name;
-	}	
+	}
+
+	public Set<IAuthor> getAuthors() {
+		return authors;
+	}
+
+	public void setAuthors(Set<IAuthor> authors) {
+		this.authors = authors;
+	}
+	
+	
+	
 }

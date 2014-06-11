@@ -11,6 +11,8 @@ public class Author extends Person implements IAuthor{
 	// relation Author -> Books
 	private List<IBook> books = new ArrayList<IBook>();
 	
+	private String authorInformation;
+	
 	public Author(){
 	   super();	
 	}
@@ -21,7 +23,15 @@ public class Author extends Person implements IAuthor{
 	}
 
 	
-    public void addBook(IBook book) {
+    public String getAuthorInformation() {
+		return authorInformation;
+	}
+
+	public void setAuthorInformation(String authorInformation) {
+		this.authorInformation = authorInformation;
+	}
+
+	public void addBook(IBook book) {
 	   if(book != null){
 	       getBooks().add(book);
 	   }
@@ -36,5 +46,7 @@ public class Author extends Person implements IAuthor{
 	public boolean equals(Object obj) {
 		return super.equals(obj);
 	}
+	
+	
 	
 }

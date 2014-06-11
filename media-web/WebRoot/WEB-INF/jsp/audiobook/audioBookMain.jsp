@@ -1,9 +1,8 @@
 <%@ include file="/WEB-INF/jsp/includes/includes.jsp" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
-<script type="text/javascript" src="http://shots.snap.com/ss/cb4d286d289c0dc4eb48c3aac61a8253/snap_shots.js"></script>
-
 <head>
+    <script type="text/javascript" src="http://shots.snap.com/ss/cb4d286d289c0dc4eb48c3aac61a8253/snap_shots.js"></script>
 	<%@ include file="/WEB-INF/jsp/includes/includes.jsp" %>
 	<%@ include file="/WEB-INF/jsp/includes/layoutImport.jsp" %>
     <title>Media Manager</title>

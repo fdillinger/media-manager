@@ -36,12 +36,12 @@ public class BookSearchAction{
     	 SearchAudioBookRequest searchRequest = new SearchAudioBookRequest();
     	 searchRequest.setGenre(genreCode);
     	 
-    	 AudiBookListResponse response = facade.findAudioBook(searchRequest);
+    	 //AudiBookListResponse response = facade.findAudioBook(searchRequest);
     	 // error check
-    	 if(response.isHickup()){
-    		 System.out.println("Hickup");
-    	 }
-    	 model.addAttribute("audioBooks",response.getAudioBookList());
+    	 //if(response.isHickup()){
+    	//	 System.out.println("Hickup");
+    	// }
+    	// model.addAttribute("audioBooks",response.getAudioBookList());
 		 return ApplicationContextWebFlow.AUDIOBOOK_SEARCH_AUDIO_BOOK_RESULT_TABEL;
      }
 	 

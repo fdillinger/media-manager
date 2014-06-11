@@ -36,7 +36,7 @@
    
    <bean id="audioBookdb4oDAOConfig"
 		class="de.fd.mediamanager.dao.db4o.AudioBookDB4ODAOConfig">
-		<property name="databaseName" value="R:\Dillinger\Temp\audioBook.yap" />
+		<property name="databaseName" value="C:\dev\database\db4o\audioBook\audioBook.yap" />
    </bean>
    
    <bean id="mediaManagerRepository"
@@ -53,8 +53,7 @@
    
    <bean id="audioBookDB4OImportAgentInfoParliament"
 		class="de.fd.mediamanager.dao.service.mediaimport.agent.AudioBookDB4OAgentInfo">
-        <property name="databaseName" value="R:\Dillinger\Temp\audioBook.yap" />
-        <property name="rootDirectory" value="R:\Dillinger\Audio Book" />
+        <property name="databaseName" value="C:\dev\database\db4o\audioBook\audioBook.yap" />
+        <property name="rootDirectory" value="H:\MEDIEN\00 AUDIO BOOK\01 Romane" />
    </bean>
-   
 </beans>

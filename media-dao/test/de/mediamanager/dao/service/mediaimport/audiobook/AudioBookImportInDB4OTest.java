@@ -34,6 +34,8 @@ public class AudioBookImportInDB4OTest extends MediaFileImporterTest{
 	
 	
 	/** The audio book importer. */
+	
+	@Autowired
 	AudioBookImporter audioBookImporter;
 
 	/** The audio book d b4 o import agent info. */

@@ -9,6 +9,7 @@ package de.fd.mediamanager.model;
  */
 public class Person {
    
+	private Long   id;
 	private String firstname;
     private String surname;
    
@@ -69,5 +70,11 @@ public class Person {
 		return true;
 	}
 
-    
+	public Long getId() {
+		return id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}   
 }
