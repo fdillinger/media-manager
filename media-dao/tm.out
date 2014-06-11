@@ -1,0 +1,119 @@
+11-05-31 11:19:53,336 [main] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog-1.log
+11-05-31 11:20:20,340 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+11-05-31 11:27:41,520 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+11-05-31 12:02:26,150 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+11-05-31 12:03:12,470 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+11-05-31 12:04:24,918 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+11-05-31 12:04:24,918 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+11-05-31 13:04:45,067 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+11-05-31 13:10:31,567 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+11-05-31 13:10:45,047 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@668387
+11-05-31 13:10:45,125 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+11-05-31 13:34:20,723 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+11-05-31 13:34:21,099 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@1b0889a
+11-05-31 13:37:36,054 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+11-05-31 15:13:31,793 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+11-05-31 15:14:09,608 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@8e918a
+11-05-31 15:14:09,609 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+11-06-01 09:23:33,068 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+11-06-01 09:24:25,298 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@d18636
+11-06-01 09:24:25,361 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+11-06-01 09:26:07,093 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+11-06-01 09:26:15,580 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@d18636
+11-06-01 09:26:15,580 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@1bde392
+11-06-01 09:26:15,596 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+11-06-01 09:27:50,026 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+11-06-01 09:27:53,022 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@5b891
+11-06-01 09:27:53,022 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@7e942f
+11-06-01 09:27:53,038 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+11-06-01 09:28:44,036 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+11-06-01 09:28:47,173 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@19846fd
+11-06-01 09:28:47,173 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@32a325
+11-06-01 09:28:47,188 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+11-06-01 09:28:55,193 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+11-06-01 09:29:40,950 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@1b56848
+11-06-01 09:29:40,950 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@6dd8f1
+11-06-01 09:29:40,951 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+11-06-06 11:10:52,595 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+11-06-06 11:10:53,167 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@bb6086
+11-06-06 11:10:53,168 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@1cee361
+11-06-06 11:38:31,776 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+11-06-06 11:38:38,934 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@41dc79
+11-06-06 11:38:46,127 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@94310b
+11-06-06 11:38:46,134 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+11-06-06 11:40:42,196 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+11-06-06 11:40:49,747 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@14177f3
+11-06-06 11:40:56,892 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@1acecf3
+11-06-06 11:40:56,900 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+11-06-06 11:43:01,914 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+11-06-06 11:43:08,678 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@12a2259
+11-06-06 11:43:08,679 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@5f634c
+11-06-06 11:44:38,365 [Atomikos:3] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@1d22ddb
+11-06-06 11:44:38,365 [Atomikos:3] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@955b34
+11-06-06 11:44:38,373 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+11-06-06 11:51:12,259 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+11-06-06 11:51:12,604 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@658bbe
+11-06-06 11:54:25,374 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+11-06-06 11:54:25,719 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@658bbe
+11-06-06 11:54:25,720 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@781dd4
+11-06-06 11:54:25,720 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@7973e4
+11-06-06 11:55:10,830 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@1346812
+11-06-06 11:55:10,831 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@247418
+11-06-06 11:55:10,831 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@176d662
+11-06-06 11:55:10,838 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+12-04-04 13:54:30,965 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+12-04-04 13:54:32,166 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@1b22d99
+12-04-04 13:54:32,166 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@1609c13
+12-04-04 13:54:32,166 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@ec6bb1
+12-04-04 13:54:32,235 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@154ea79
+12-04-04 13:54:32,235 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@15ad1da
+12-04-04 13:54:32,235 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@117c0eb
+12-04-04 13:54:32,243 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+12-04-04 14:38:56,879 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+12-04-04 14:39:48,751 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+12-04-04 14:39:53,017 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@3a78ad
+12-04-04 14:39:53,018 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@14ade37
+12-04-04 14:39:53,018 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@14b9b80
+12-04-04 14:39:57,141 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@10f243b
+12-04-04 14:39:57,141 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@21e115
+12-04-04 14:39:57,141 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@10a4a32
+12-04-04 14:41:11,335 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+12-04-04 14:41:15,241 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@3a78ad
+12-04-04 14:41:15,241 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@14ade37
+12-04-04 14:41:15,241 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@14b9b80
+12-04-04 14:43:54,086 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+12-04-04 14:44:07,454 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@4cdac8
+12-04-04 14:44:07,455 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@beebcd
+12-04-04 14:44:07,750 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@f757b9
+12-04-04 14:44:07,751 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@1fcb845
+12-04-04 14:44:07,751 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@1f102c1
+12-04-04 14:44:09,146 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@169cccc
+12-04-04 14:44:09,146 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@1e55d39
+12-04-04 14:44:09,146 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@1530551
+12-04-04 14:44:09,146 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+12-04-04 14:46:04,833 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+12-04-04 14:46:05,074 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@79b177
+12-04-04 14:46:05,075 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@1cefde4
+12-04-04 14:46:05,369 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@84ff20
+12-04-04 14:46:05,370 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@15ad1da
+12-04-04 14:46:05,370 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@18bbb61
+12-04-04 14:46:05,381 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@300429
+12-04-04 14:46:05,381 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@122dad5
+12-04-04 14:46:05,381 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@15c6c8d
+12-04-04 14:46:05,389 [Thread-0] atomikos connection pool 'MEDIA_MANAGER_TEST': destroying pool...
+12-04-04 14:48:41,308 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+12-04-04 14:48:41,545 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@1898115
+12-04-04 14:48:41,545 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@13c2d7f
+12-04-06 12:40:05,435 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@d5c653
+12-04-06 12:40:05,435 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@15d7752
+12-04-06 13:13:26,693 [Atomikos:1] Rollback of timedout ACTIVE coordinator !
+12-04-06 13:13:26,693 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@862041
+12-04-06 13:18:32,901 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+12-04-06 13:18:42,902 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@13e6f83
+12-04-06 13:18:42,903 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@16a5bcb
+12-04-06 13:21:23,414 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+12-04-06 13:21:31,098 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@118317f
+12-04-06 13:26:16,427 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+12-04-06 13:26:25,442 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@873b9f
+12-04-06 13:28:16,274 [Finalizer] Logfile closed: C:\dev\java\workspace\default-3.6\media\media-dao\.\tmlog0.log
+12-04-06 13:28:19,249 [Atomikos:2] Forcing close of pending statement: oracle.jdbc.driver.T4CPreparedStatement@1d3633c

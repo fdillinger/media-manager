@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="
+		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-2.5.xsd
+		http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-2.5.xsd">
+
+    <context:component-scan base-package="de.fd"/>
+    <context:annotation-config/>
+
+   <bean id="audioBookImporter"
+		class="de.fd.mediamanager.dao.service.mediaimport.AudioBookImporter">
+   </bean>
+   
+   <bean id="xmlImportAgent"
+		class="de.fd.mediamanager.dao.service.mediaimport.agent.AudioBookXMLImportAgent">
+   </bean>
+   
+   
+   <bean id="db4oImportAgent"
+		class="de.fd.mediamanager.dao.service.mediaimport.agent.AudioBookDB4OImportAgent">
+   </bean>
+   
+   
+   <bean id="db4oDAOFactory"
+		class="de.fd.mediamanager.dao.db4o.MediaDB4ODAOFactory">
+   </bean>
+
+   <bean id="audioBookdb4oRepository"
+		class="de.fd.mediamanager.repository.AudioBookDB4ORepository">
+   </bean>
+   
+   <bean id="audioBookdb4oDAOConfig"
+		class="de.fd.mediamanager.dao.db4o.AudioBookDB4ODAOConfig">
+		<property name="databaseName" value="C:\dev\database\db4o\audioBook\audioBook.yap" />
+   </bean>
+   
+   <bean id="mediaManagerRepository"
+		class="de.fd.mediamanager.dao.MediaManagerRepository">
+   </bean>
+  
+  
+   <bean id="audioBookXMLImportAgentInfoParliament"
+		class="de.fd.mediamanager.dao.service.mediaimport.agent.AudioBookXMLImportAgentInfo">
+        <property name="rootDirectory" value="G:\\MEDIEN\\00 AUDIO BOOK\\01 Romane\\" />
+        <property name="xmlFileDestionation" value="C:\\temp\\" />
+        <property name="xmlFileName" value="audioBook.xml" />
+   </bean>   
+   
+   <bean id="audioBookDB4OImportAgentInfoParliament"
+		class="de.fd.mediamanager.dao.service.mediaimport.agent.AudioBookDB4OAgentInfo">
+        <property name="databaseName" value="C:\dev\database\db4o\audioBook\audioBook.yap" />
+        <property name="rootDirectory" value="H:\MEDIEN\00 AUDIO BOOK\01 Romane" />
+   </bean>
+</beans>

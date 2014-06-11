@@ -7,12 +7,11 @@ import java.util.ArrayList;
 import java.util.Collection;
 
 import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
 
 import de.fd.mediamanager.api.IMediaManagerFacade;
-import de.fd.mediamanager.api.IRepository;
+import de.fd.mediamanager.api.IMediaManagerRepository;
 import de.fd.mediamanager.api.model.search.audiobook.IAudioBookSearchCriteria;
-import de.fd.mediamanager.communication.assempler.AudioBookAssembler;
-import de.fd.mediamanager.communication.dto.AudioBookListDTO;
 import de.fd.mediamanager.communication.request.SearchAudioBookRequest;
 import de.fd.mediamanager.communication.response.AudiBookListResponse;
 import de.fd.mediamanager.model.audiobook.AudioBook;
@@ -21,20 +20,12 @@ import de.fd.mediamanager.model.audiobook.AudioBook;
  * @author fdillinger
  *
  */
-public class MediaManagerFacadeImpl implements IMediaManagerFacade
-{
+public class MediaManagerFacadeImpl implements IMediaManagerFacade {
 	private static Logger log = Logger.getLogger(MediaManagerFacadeImpl.class);
     
-	// injected by SPRING
-    private IRepository repository; 
+	@Autowired
+	protected IMediaManagerRepository repository;
 	
-	public IRepository getRepository() {
-		return repository;
-	}
-
-	public void setRepository(IRepository repository) {
-		this.repository = repository;
-	}
 
 	public MediaManagerFacadeImpl(){
          
@@ -44,21 +35,22 @@ public class MediaManagerFacadeImpl implements IMediaManagerFacade
          return echo;
     }
      
-     public Collection<AudioBook> findAudioBook(IAudioBookSearchCriteria criteria){
-    	 
-    	 Collection<AudioBook> collection = new ArrayList<AudioBook>();
-    	 return collection;
-    	 
-     }
+    public Collection<AudioBook> findAudioBook(IAudioBookSearchCriteria criteria){	 
+       //repository.getAudioBookRepository().g
+    	
+       Collection<AudioBook> collection = new ArrayList<AudioBook>();
+       return collection;
+    }
      
-     /* DTO Solution */
-     public AudiBookListResponse findAudioBook(SearchAudioBookRequest criteria){
-         
-    	 Collection<AudioBook> audioBooks = repository.findAudioBook(criteria);
-    	 Collection<AudioBookListDTO> list = AudioBookAssembler.getDTOList(audioBooks);
-    	 AudiBookListResponse response = new AudiBookListResponse(list);
-    	 return response;
-     }
+    public Collection<AudioBook> findAllAudioBook(){
+        return repository.getAudioBookRepository().getAllAudioBooks();
+    }
      
-     
+	public IMediaManagerRepository getRepository() {
+		return repository;
+	}
+
+	public void setRepository(IMediaManagerRepository repository) {
+		this.repository = repository;
+	}
 }

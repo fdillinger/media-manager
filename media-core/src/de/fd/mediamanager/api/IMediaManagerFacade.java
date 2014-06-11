@@ -17,11 +17,11 @@ import de.fd.mediamanager.model.audiobook.AudioBook;
  * @author fdillinger
  *
  */
-public interface IMediaManagerFacade 
-{
-    public String echo(String echo);
+public interface IMediaManagerFacade {
+    
+	public String echo(String echo);
     
     public Collection<AudioBook> findAudioBook(IAudioBookSearchCriteria criteria);
-    
-    public AudiBookListResponse findAudioBook(SearchAudioBookRequest criteria);
+
+    public Collection<AudioBook> findAllAudioBook();
 }

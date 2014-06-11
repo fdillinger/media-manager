@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+
+<hibernate-mapping>
+	<class name="de.fd.mediamanager.model.book.Book" table="BOOK">
+
+		<id name="id" type="java.lang.Long">
+			<column name="ID_BOOK" precision="22" scale="0" />
+			<generator class="sequence">
+			    <param name="sequence">BOOK_SEQ</param>
+			</generator> 
+		</id>
+	    
+        <!--  Name -->
+        <property name="name" type="java.lang.String">
+            <column name="NAME" />
+        </property> 
+	
+	    <!--  Name -->
+        <property name="ISBN" type="java.lang.String">
+            <column name="ISBN_NUMBER" />
+        </property> 
+	
+	    <set name="authors" table="BOOK_LECTOR_AUTHOR" cascade="all" lazy="false">
+	         <key column="FK_BOOK" />
+	         <many-to-many column="FK_AUTHOR" class="de.fd.mediamanager.model.Author"/>
+	    </set>
+	
+	
+         <joined-subclass
+	      name="de.fd.mediamanager.model.audiobook.AudioBook"
+		  table="AUDIO_BOOK" extends="Book">
+		  <key column="ID_AUDIO_BOOK" />
+		
+		    <set name="lectors" table="BOOK_LECTOR_AUTHOR" cascade="all" lazy="false">
+	         <key column="FK_BOOK" />
+	         <many-to-many column="FK_LECTOR" class="de.fd.mediamanager.model.Lector"/>
+	    
+	    </set>
+		
+		
+		
+	     </joined-subclass>	
+	
+	
+	</class>
+    
+   
+    
+    
+
+
+</hibernate-mapping>

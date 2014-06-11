@@ -9,6 +9,10 @@ import org.apache.commons.logging.LogFactory;
 import org.hibernate.Query;
 
 import de.fd.mediamanager.api.dao.IAudioBookDAO;
+import de.fd.mediamanager.api.model.audiobook.IAudioBook;
+import de.fd.mediamanager.api.model.book.IBook;
+import de.fd.mediamanager.model.Author;
+import de.fd.mediamanager.model.Person;
 import de.fd.mediamanager.model.audiobook.AudioBook;
 
 
@@ -64,7 +68,72 @@ public class AudioBookHibernateDAO extends HibernateDAO implements IAudioBookDAO
      * @see de.fd.mediamanager.api.dao.IAudioBookDAO#addAudioBook(de.fd.mediamanager.model.audiobook.AudioBook)
      */
     public void addAudioBook(AudioBook audioBook){
-		
+    	
+    	 try {
+    		 Long id = (Long)getCurrentSession().save(audioBook);
+    		 System.out.println("ID: " + id);
+         } 
+         catch (RuntimeException re) {
+             log.error("find all failed", re);
+             throw re;
+         }
 	}
+    
+    
+    public Collection<Person> findAllAuthors() {
+        log.debug("finding all Person instances");
+        try {
+            String queryString = "from Person";
+            Query queryObject = getCurrentSession().createQuery(queryString);
+            List<Person> list = queryObject.list();
+            return list;
+        } 
+        catch (RuntimeException re) {
+            log.error("find all failed", re);
+            throw re;
+        }
+    }
+    
 	
+    public Collection<Author> findPerson(){
+   	    log.debug("finding all Person instances");
+        try {
+            String queryString = "from Author";
+            Query queryObject = getCurrentSession().createQuery(queryString);
+            List<Author> list = queryObject.list();
+            return list;
+        } 
+        catch (RuntimeException re) {
+            log.error("find all failed", re);
+            throw re;
+        }
+	}
+    
+    public Collection<IBook> findBooks(){
+   	    log.debug("finding all Book instances");
+        try {
+            String queryString = "from Book";
+            Query queryObject = getCurrentSession().createQuery(queryString);
+            List<IBook> list = queryObject.list();
+            return list;
+        } 
+        catch (RuntimeException re) {
+            log.error("find all failed", re);
+            throw re;
+        }
+	}
+    
+    public Collection<IAudioBook> findAudioBooks(){
+   	    log.debug("finding all Book instances");
+        try {
+            String queryString = "from AudioBook";
+            Query queryObject = getCurrentSession().createQuery(queryString);
+            List<IAudioBook> list = queryObject.list();
+            return list;
+        } 
+        catch (RuntimeException re) {
+            log.error("find all failed", re);
+            throw re;
+        }
+	}
 }

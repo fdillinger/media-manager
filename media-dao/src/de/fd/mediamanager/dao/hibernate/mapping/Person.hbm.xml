@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+
+<hibernate-mapping>
+	<class name="de.fd.mediamanager.model.Person" table="PERSON">
+
+		<id name="id" type="java.lang.Long">
+			<column name="ID_PERSON" precision="22" scale="0" />
+			<generator class="sequence">
+			    <param name="sequence">PERSON_SEQ</param>
+			</generator>
+		</id>
+	     	     
+        <!--  Name -->
+        <property name="firstname" type="java.lang.String">
+            <column name="FIRST_NAME" />
+        </property> 
+        
+         <!--  Name -->
+        <property name="surname" type="java.lang.String">
+            <column name="LAST_NAME" />
+        </property> 
+        
+        
+        <joined-subclass
+			    name="de.fd.mediamanager.model.Author"
+			    table="AUTHOR" extends="Person">
+			   <key column="ID_AUTHOR" />
+		
+		       <property name="authorInformation" type="string">
+			      <column name="AUTHOR_INFO" />
+		       </property>
+		
+		</joined-subclass>
+        
+        <joined-subclass
+			    name="de.fd.mediamanager.model.Lector"
+			    table="LECTOR" extends="Person">
+			   <key column="ID_LECTOR" />
+		
+		</joined-subclass>
+        
+        
+	</class>
+</hibernate-mapping>

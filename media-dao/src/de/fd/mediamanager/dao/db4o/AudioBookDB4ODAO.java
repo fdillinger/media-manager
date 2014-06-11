@@ -8,8 +8,6 @@ import java.util.Collection;
 import java.util.HashSet;
 import java.util.Set;
 
-import org.springframework.beans.factory.annotation.Autowired;
-
 import com.db4o.Db4o;
 import com.db4o.ObjectContainer;
 import com.db4o.ObjectSet;
@@ -19,6 +17,7 @@ import com.db4o.query.Predicate;
 import de.fd.mediamanager.api.dao.IAudioBookDAO;
 import de.fd.mediamanager.api.model.IAuthor;
 import de.fd.mediamanager.model.Author;
+import de.fd.mediamanager.model.Person;
 import de.fd.mediamanager.model.audiobook.AudioBook;
 
 /**
@@ -257,5 +256,9 @@ public class AudioBookDB4ODAO  implements IAudioBookDAO {
 	 */
 	public void setDatabase(String database) {
 		this.database = database;
+	}
+	
+	public Collection<Person> findPerson(){
+		return null;
 	}
 }

@@ -4,6 +4,7 @@ import java.io.Serializable;
 import java.util.Collection;
 
 import de.fd.mediamanager.api.dao.IAudioBookDAO;
+import de.fd.mediamanager.model.Person;
 import de.fd.mediamanager.model.audiobook.AudioBook;
 
 /**
@@ -41,5 +42,9 @@ public class AudioBookCassandraDAO  implements IAudioBookDAO {
 	
     public void addAudioBook(AudioBook audioBook){
 		
+	}
+    
+    public Collection<Person> findPerson(){
+		return null;
 	}
 }

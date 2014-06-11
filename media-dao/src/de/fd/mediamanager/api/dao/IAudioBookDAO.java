@@ -6,6 +6,7 @@ package de.fd.mediamanager.api.dao;
 import java.io.Serializable;
 import java.util.Collection;
 
+import de.fd.mediamanager.model.Person;
 import de.fd.mediamanager.model.audiobook.AudioBook;
 
 /**
@@ -36,6 +37,7 @@ public interface IAudioBookDAO {
 	 * @return the collection
 	 */
 	Collection<AudioBook> findAllAudioBooks();
+	
 	
 	/**
 	 * Find by id.
